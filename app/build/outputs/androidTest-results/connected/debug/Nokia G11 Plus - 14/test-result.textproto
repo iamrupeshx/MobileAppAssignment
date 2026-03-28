@@ -1,0 +1,541 @@
+# 2026-03-27T14:39:00.144661200Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 10
+}
+test_status: FAILED
+test_result {
+  test_case {
+    test_class: "NavigationUITest"
+    test_package: "com.smartfit.app"
+    test_method: "loginScreen_hasTaglineText"
+    start_time {
+      seconds: 1774622295
+      nanos: 521000000
+    }
+    end_time {
+      seconds: 1774622304
+      nanos: 248000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\logcat-com.smartfit.app.NavigationUITest-loginScreen_hasTaglineText.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationUITest"
+    test_package: "com.smartfit.app"
+    test_method: "loginScreen_hasEmailAndPasswordFields"
+    start_time {
+      seconds: 1774622304
+      nanos: 266000000
+    }
+    end_time {
+      seconds: 1774622308
+      nanos: 534000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\logcat-com.smartfit.app.NavigationUITest-loginScreen_hasEmailAndPasswordFields.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationUITest"
+    test_package: "com.smartfit.app"
+    test_method: "clickRegisterHere_navigatesToRegisterScreen"
+    start_time {
+      seconds: 1774622308
+      nanos: 537000000
+    }
+    end_time {
+      seconds: 1774622313
+      nanos: 820000000
+    }
+  }
+  test_status: FAILED
+  error {
+    error_message: "java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs\nat androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)\nat androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release$default(TestOwner.kt:81)\nat androidx.compose.ui.test.SemanticsNodeInteractionCollection.fetchSemanticsNodes(SemanticsNodeInteraction.kt:256)\nat androidx.compose.ui.test.SemanticsNodeInteractionCollection.fetchSemanticsNodes$default(SemanticsNodeInteraction.kt:249)\nat com.smartfit.app.NavigationUITest.clickRegisterHere_navigatesToRegisterScreen$lambda$5(NavigationUITest.kt:67)\nat com.smartfit.app.NavigationUITest.$r8$lambda$kdyCgXYRDveSzF2XN35ut_K8RQM(Unknown Source:0)\nat com.smartfit.app.NavigationUITest$$ExternalSyntheticLambda11.invoke(D8$$SyntheticClass:0)\nat androidx.compose.ui.test.AndroidComposeUiTestEnvironment$AndroidComposeUiTestImpl.waitUntil(ComposeUiTest.android.kt:434)\nat androidx.compose.ui.test.junit4.AndroidComposeTestRule.waitUntil(AndroidComposeTestRule.android.kt:306)\nat com.smartfit.app.NavigationUITest.clickRegisterHere_navigatesToRegisterScreen(NavigationUITest.kt:66)\n"
+    error_type: "java.lang.IllegalStateException"
+    stack_trace: "java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs\nat androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)\nat androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release$default(TestOwner.kt:81)\nat androidx.compose.ui.test.SemanticsNodeInteractionCollection.fetchSemanticsNodes(SemanticsNodeInteraction.kt:256)\nat androidx.compose.ui.test.SemanticsNodeInteractionCollection.fetchSemanticsNodes$default(SemanticsNodeInteraction.kt:249)\nat com.smartfit.app.NavigationUITest.clickRegisterHere_navigatesToRegisterScreen$lambda$5(NavigationUITest.kt:67)\nat com.smartfit.app.NavigationUITest.$r8$lambda$kdyCgXYRDveSzF2XN35ut_K8RQM(Unknown Source:0)\nat com.smartfit.app.NavigationUITest$$ExternalSyntheticLambda11.invoke(D8$$SyntheticClass:0)\nat androidx.compose.ui.test.AndroidComposeUiTestEnvironment$AndroidComposeUiTestImpl.waitUntil(ComposeUiTest.android.kt:434)\nat androidx.compose.ui.test.junit4.AndroidComposeTestRule.waitUntil(AndroidComposeTestRule.android.kt:306)\nat com.smartfit.app.NavigationUITest.clickRegisterHere_navigatesToRegisterScreen(NavigationUITest.kt:66)\n"
+  }
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\logcat-com.smartfit.app.NavigationUITest-clickRegisterHere_navigatesToRegisterScreen.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationUITest"
+    test_package: "com.smartfit.app"
+    test_method: "loginScreen_invalidEmail_showsFormatError"
+    start_time {
+      seconds: 1774622313
+      nanos: 823000000
+    }
+    end_time {
+      seconds: 1774622320
+      nanos: 40000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\logcat-com.smartfit.app.NavigationUITest-loginScreen_invalidEmail_showsFormatError.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationUITest"
+    test_package: "com.smartfit.app"
+    test_method: "loginScreen_hasSignInButton"
+    start_time {
+      seconds: 1774622320
+      nanos: 68000000
+    }
+    end_time {
+      seconds: 1774622323
+      nanos: 245000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\logcat-com.smartfit.app.NavigationUITest-loginScreen_hasSignInButton.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationUITest"
+    test_package: "com.smartfit.app"
+    test_method: "splashScreen_displaysAppName"
+    start_time {
+      seconds: 1774622323
+      nanos: 248000000
+    }
+    end_time {
+      seconds: 1774622324
+      nanos: 170000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\logcat-com.smartfit.app.NavigationUITest-splashScreen_displaysAppName.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationUITest"
+    test_package: "com.smartfit.app"
+    test_method: "loginScreen_displaysWelcomeText"
+    start_time {
+      seconds: 1774622324
+      nanos: 173000000
+    }
+    end_time {
+      seconds: 1774622327
+      nanos: 246000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\logcat-com.smartfit.app.NavigationUITest-loginScreen_displaysWelcomeText.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationUITest"
+    test_package: "com.smartfit.app"
+    test_method: "registerScreen_hasAllRequiredFields"
+    start_time {
+      seconds: 1774622327
+      nanos: 247000000
+    }
+    end_time {
+      seconds: 1774622331
+      nanos: 214000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\logcat-com.smartfit.app.NavigationUITest-registerScreen_hasAllRequiredFields.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationUITest"
+    test_package: "com.smartfit.app"
+    test_method: "loginScreen_emptyEmail_showsError"
+    start_time {
+      seconds: 1774622331
+      nanos: 215000000
+    }
+    end_time {
+      seconds: 1774622334
+      nanos: 421000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\logcat-com.smartfit.app.NavigationUITest-loginScreen_emptyEmail_showsError.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationUITest"
+    test_package: "com.smartfit.app"
+    test_method: "registerScreen_hasCreateAccountButton"
+    start_time {
+      seconds: 1774622334
+      nanos: 423000000
+    }
+    end_time {
+      seconds: 1774622338
+      nanos: 164000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\logcat-com.smartfit.app.NavigationUITest-registerScreen_hasCreateAccountButton.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "D:\\kotlin app\\SmartFit\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Nokia G11 Plus - 14\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

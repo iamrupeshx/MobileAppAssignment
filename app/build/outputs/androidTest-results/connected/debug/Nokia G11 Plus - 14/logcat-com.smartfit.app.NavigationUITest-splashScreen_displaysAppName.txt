@@ -1,0 +1,1014 @@
+03-27 20:23:40.376 11663 11714 I TestRunner: started: splashScreen_displaysAppName(com.smartfit.app.NavigationUITest)
+03-27 20:23:40.376 24402 27087 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39872, lapfnr:39872
+03-27 20:23:40.376 24402 27087 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82707, lapfnr:82707
+03-27 20:23:40.377 24402 27087 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82707, lapfnr:82707
+03-27 20:23:40.378   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.378   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.378   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.381   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.381   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.382   911  3225 D mali_gralloc: register: id=38e00011878, handle=0xb4000071bb4b59d0, importpid=942, gRegisteredHandles=39
+03-27 20:23:40.382   911  3225 D mali_gralloc: register: id=38e0001186c, handle=0xb4000071bb4a70f0, importpid=942, gRegisteredHandles=40
+03-27 20:23:40.383  1331  3660 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 79b2477 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 daf7d28 Splash Screen com.smartfit.app.test 5ef721f com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$Empt
+03-27 20:23:40.383  1331  3660 D InputDispatcher: Window went away: 710c1b2 com.smartfit.app/com.smartfit.app.MainActivity
+03-27 20:23:40.384 11663 11714 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.EspressoLink@a242d89]
+03-27 20:23:40.387 11663 11714 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+03-27 20:23:40.388   905  1312 E Cam3OEMIf: 12560, queueBuffer: mFtEnable 0
+03-27 20:23:40.391 24402 27083 D BLASTBufferQueue: [VRI[test]#1112](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:4, lapfnr:4
+03-27 20:23:40.391 24402 27083 D BLASTBufferQueue: [VRI[test]#1112](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:4, lapfnr:4
+03-27 20:23:40.391 24402 27083 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39873, lapfnr:39873
+03-27 20:23:40.392 24402 27083 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39873, lapfnr:39873
+03-27 20:23:40.392 24402 27083 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82708, lapfnr:82708
+03-27 20:23:40.392 24402 27083 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82708, lapfnr:82708
+03-27 20:23:40.397   905 12421 I sprd_hdr_adapter: L 200, sprd_hdr_adpt_detect: detect current hdr type: 2, detect_in_param: 0xdb33cbe0, detect_out_param: 0xdb33cd40
+03-27 20:23:40.398   905 12422 I isp_blk_cmc10: 268, _pm_cmc10_set_param: cmc_result: (2437 14875 95; 16086 1352 16353; 146 15156 2104).
+03-27 20:23:40.398   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.398   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.398   905 12421 E Libae[FAE]: 1926, face_luma_calc: NO FACE
+03-27 20:23:40.398   905 12421 W Libae[ABL]: 585,abl_bv_interpolation:tune param num should bigger than 1
+03-27 20:23:40.398   905 12421 I cmr_oem : 10954, camera_get_af_support: af_support 0
+03-27 20:23:40.399   905 12422 E isp_alg_fw: 3931, ispalg_gtm_process: hist_total is 0, gtm no process !!!
+03-27 20:23:40.399   905 12437 E awb_adpt: 1469, awb_sprd_ctrl_calculation_v3_2: check handle success
+03-27 20:23:40.399  1331  4257 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 daf7d28 Splash Screen com.smartfit.app.test 5ef721f com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 1a25f2f ActivityRecordInputSink com.smartfit.app.test
+03-27 20:23:40.399   942  1001 D mali_gralloc: unregister: id=38e00011867, handle=0xb400007bafd384f0, base=0x0, importpid=942, count:0
+03-27 20:23:40.400   911  3225 D mali_gralloc: register: id=38e0001186a, handle=0xb4000071bb4b6510, importpid=942, gRegisteredHandles=41
+03-27 20:23:40.399  1331  4257 D InputDispatcher: Window went away: 79b2477 ActivityRecordInputSink com.smartfit.app/.MainActivity
+03-27 20:23:40.409   928   928 D PowerHAL: enter power::setMode
+03-27 20:23:40.409   928   928 D PowerHAL: PowerSessionManager::updateHintMode: mode: LAUNCH, enabled: 1
+03-27 20:23:40.409   928   928 D PowerHAL: PowerSessionManager::updateHintMode resValue = 0
+03-27 20:23:40.409   928   928 D PowerHAL: ###Enter launch scene bgn###
+03-27 20:23:40.409   928   928 D PowerHAL: Enter common_set: enable:1, duration: 0, /sys/devices/system/cpu/cpufreq/policy0/scaling_min_freq: 1820000
+03-27 20:23:40.409   928   928 D PowerHAL: Enter set_cluster_freqs_max_min:
+03-27 20:23:40.409   928   928 D PowerHAL: Enter common_set: enable:1, duration: 0, /sys/devices/system/cpu/cpufreq/policy0/scaling_max_freq: 1820000
+03-27 20:23:40.409   928   928 D PowerHAL: Enter set_cluster_freqs_max_min:
+03-27 20:23:40.409   928   928 D PowerHAL: Enter common_set: enable:1, duration: 0, /sys/devices/system/cpu/cpufreq/policy6/scaling_min_freq: 2028000
+03-27 20:23:40.409   928   928 D PowerHAL: Enter set_cluster_freqs_max_min:
+03-27 20:23:40.409   928   928 D PowerHAL: Enter common_set: enable:1, duration: 0, /sys/devices/system/cpu/cpufreq/policy6/scaling_max_freq: 2028000
+03-27 20:23:40.409   928   928 D PowerHAL: Enter set_cluster_freqs_max_min:
+03-27 20:23:40.409   928   928 D PowerHAL: Enter devfreq_ddr_set: enable:1, duration: 0, /sys/class/devfreq/scene-frequency/sprd-governor/scene_boost_dfs: max
+03-27 20:23:40.409   928   928 D PowerHAL: ###Enter launch scene end###
+03-27 20:23:40.410 24402 24412 D BLASTBufferQueue: [VRI[test]#1112](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:5, lapfnr:5
+03-27 20:23:40.411 24402 24412 D BLASTBufferQueue: [VRI[test]#1112](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:5, lapfnr:5
+03-27 20:23:40.413 24402 24412 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39874, lapfnr:39874
+03-27 20:23:40.414 24402 24412 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39874, lapfnr:39874
+03-27 20:23:40.414 24402 24412 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82709, lapfnr:82709
+03-27 20:23:40.414 24402 24412 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82709, lapfnr:82709
+03-27 20:23:40.418 24402 24402 D NotificationShadeWindowController: isKeyguardShowingAndNotOccluded= false keyguardFadingAway=false keygaurdTransparent=false
+03-27 20:23:40.422   905 12450 I FDV3    : [find, 710]: src:640x480 detect:224 face_num=0 0.66 ms
+03-27 20:23:40.422   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.422   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.422   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.422   905 12441 W Cam3Channel: 934, getStream: channel has no valied stream(type is 7)
+03-27 20:23:40.424   905 12441 I Cam3Setting: 6634, translateLocalToFwMetadata: calib_status_value:0
+03-27 20:23:40.424   905 12441 E Cam3Channel: 1588, getMetadata: AE or AF callback error, give default metadata 0xe0400010
+03-27 20:23:40.426   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.426   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.426   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.431   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.431   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.431   905  1312 E Cam3OEMIf: 12560, queueBuffer: mFtEnable 0
+03-27 20:23:40.433  1331  3480 D InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{50e2bf6 u0 com.smartfit.app/.MainActivity t2423 d0}
+03-27 20:23:40.433  1331  3480 D InputDispatcher: Resetting ANR timeouts.
+03-27 20:23:40.434  1331  4257 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 daf7d28 Splash Screen com.smartfit.app.test 5ef721f com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 1a25f2f ActivityRecordInputSink com.smartfit.app.test
+03-27 20:23:40.440 24402 24412 D BLASTBufferQueue: [VRI[test]#1112](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:6, lapfnr:6
+03-27 20:23:40.440 24402 24412 D mali_gralloc: unregister: id=38e0001186c, handle=0xb400007e6c0719f0, base=0x0, importpid=24402, count:0
+03-27 20:23:40.441 24402 24412 D BLASTBufferQueue: [VRI[test]#1112](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:6, lapfnr:6
+03-27 20:23:40.444 24402 24412 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39875, lapfnr:39875
+03-27 20:23:40.444 24402 24402 D NotificationShadeWindowController: isKeyguardShowingAndNotOccluded= false keyguardFadingAway=false keygaurdTransparent=false
+03-27 20:23:40.445 24402 24412 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39875, lapfnr:39875
+03-27 20:23:40.445 24402 24412 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82710, lapfnr:82710
+03-27 20:23:40.445 24402 24412 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82710, lapfnr:82710
+03-27 20:23:40.446 11663 11663 D LifecycleMonitor: Lifecycle status change: com.smartfit.app.MainActivity@bfe00f2 in: PRE_ON_CREATE
+03-27 20:23:40.447   905 12421 I sprd_hdr_adapter: L 200, sprd_hdr_adpt_detect: detect current hdr type: 2, detect_in_param: 0xdb33cbe0, detect_out_param: 0xdb33cd40
+03-27 20:23:40.447   905 12422 I isp_blk_cmc10: 268, _pm_cmc10_set_param: cmc_result: (2437 14875 95; 16086 1352 16353; 146 15156 2104).
+03-27 20:23:40.447   905 12437 E awb_adpt: 1469, awb_sprd_ctrl_calculation_v3_2: check handle success
+03-27 20:23:40.447   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.447   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.447   905 12422 E isp_alg_fw: 3931, ispalg_gtm_process: hist_total is 0, gtm no process !!!
+03-27 20:23:40.447 11663 11663 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+03-27 20:23:40.448   905 12421 E Libae[FAE]: 1926, face_luma_calc: NO FACE
+03-27 20:23:40.448   905 12421 W Libae[ABL]: 585,abl_bv_interpolation:tune param num should bigger than 1
+03-27 20:23:40.448 11663 11663 D MainActivity: MainActivity created
+03-27 20:23:40.448   905 12421 I cmr_oem : 10954, camera_get_af_support: af_support 0
+03-27 20:23:40.448   942  1001 D mali_gralloc: unregister: id=38e0001186c, handle=0xb400007bafd36450, base=0x0, importpid=942, count:0
+03-27 20:23:40.449  1331  1465 D InputDispatcher: dispatchEventToCurrentInputTargets
+03-27 20:23:40.449  1331  1465 D InputDispatcher: channel '19faf04 com.android.launcher3/com.android.searchlauncher.SearchLauncher (server)' ~ prepareDispatchCycle - flags=DISPATCH_AS_IS, globalScaleFactor=1.000000, pointerIds=00000000000000000000000000000000
+03-27 20:23:40.449  1331  1465 D InputDispatcher:         default (ROT_0) (IDENTITY)
+03-27 20:23:40.449  1331  1465 D InputDispatcher: channel '19faf04 com.android.launcher3/com.android.searchlauncher.SearchLauncher (server)' ~ startDispatchCycle
+03-27 20:23:40.449  1331  3480 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 daf7d28 Splash Screen com.smartfit.app.test 5ef721f com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 1a25f2f ActivityRecordInputSink com.smartfit.app.test
+03-27 20:23:40.450  1331  3480 D InputDispatcher: Window went away: 28bb50b com.android.launcher3/com.android.searchlauncher.SearchLauncher
+03-27 20:23:40.450  1331  3480 D InputDispatcher: Window went away: 19faf04 com.android.launcher3/com.android.searchlauncher.SearchLauncher
+03-27 20:23:40.450 32238 32238 D InputEventReceiver: channel '19faf04 com.android.launcher3/com.android.searchlauncher.SearchLauncher (client)' ~ Consuming input events, consumeBatches=false, frameTime=-1
+03-27 20:23:40.450 32238 32238 D InputEventReceiver: channel '19faf04 com.android.launcher3/com.android.searchlauncher.SearchLauncher (client)' ~ Received focus event: hasFocus=false.
+03-27 20:23:40.450 32238 32238 D InputEventReceiver: channel '19faf04 com.android.launcher3/com.android.searchlauncher.SearchLauncher (client)' ~ Finished input event.
+03-27 20:23:40.450  1331  1465 D InputDispatcher: channel '19faf04 com.android.launcher3/com.android.searchlauncher.SearchLauncher (server)' ~ finishDispatchCycle - seq=588128, handled=true
+03-27 20:23:40.450  1331  1465 D InputDispatcher: channel '19faf04 com.android.launcher3/com.android.searchlauncher.SearchLauncher (server)' ~ startDispatchCycle
+03-27 20:23:40.456 24402 24487 D InputEventReceiver: android_view_InputEventReceiver debug log is enabled
+03-27 20:23:40.456 24402 24487 D InputEventReceiver: channel 'c2300c9 Splash Screen com.smartfit.app (client)' ~ Initializing input event receiver.
+03-27 20:23:40.457 24402 24487 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@a5a535a
+03-27 20:23:40.458  1331  3480 W InputManager-JNI: Input channel object 'daf7d28 Splash Screen com.smartfit.app.test (client)' was disposed without first being removed with the input manager!
+03-27 20:23:40.459 24402 24415 D BLASTBufferQueue: [VRI[test]#1112](f:0,a:3) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:6, lapfnr:6
+03-27 20:23:40.459 24402 24415 D mali_gralloc: unregister: id=38e0001186a, handle=0xb400007e6c064af0, base=0x0, importpid=24402, count:0
+03-27 20:23:40.459 24402 24415 D BLASTBufferQueue: [VRI[test]#1112](f:0,a:2) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:6, lapfnr:6
+03-27 20:23:40.459 24402 24415 D mali_gralloc: unregister: id=38e0001186d, handle=0xb400007e6c12a430, base=0x0, importpid=24402, count:0
+03-27 20:23:40.460 24402 24415 D mali_gralloc: unregister: id=38e0001186b, handle=0xb400007e6c0e3ab0, base=0x0, importpid=24402, count:0
+03-27 20:23:40.460 24402 24415 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39875, lapfnr:39875
+03-27 20:23:40.461 24402 24415 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:2) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39875, lapfnr:39875
+03-27 20:23:40.461 24402 24415 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:3) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82710, lapfnr:82710
+03-27 20:23:40.461 24402 24415 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:2) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82710, lapfnr:82710
+03-27 20:23:40.462 24402 24487 D InputEventReceiver: channel 'daf7d28 Splash Screen com.smartfit.app.test (client)' ~ Disposing input event receiver.
+03-27 20:23:40.463   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.464   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.464   942   942 I Layer   : fillInputInfo layer:Splash Screen com.smartfit.app.test#28587, visible=0 (hasInputInfo:1, isHidden:0, alpha:0.000000, parent:daf7d28 Splash Screen com.smartfit.app.test#28586,parenthidden:0, parentalpha:0.000000, mBuffer:1, mSidebandStream:0,hasSomethingToDraw:1, hasEffect:0, fillsColor:0, drawShadows:0, hasBlur:0)
+03-27 20:23:40.464   942   942 I Layer   : fillInputInfo layer:com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#28594, visible=0 (hasInputInfo:1, isHidden:0, alpha:0.000000, parent:5ef721f com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#28588,parenthidden:0, parentalpha:0.000000, mBuffer:1, mSidebandStream:0,hasSomethingToDraw:1, hasEffect:0, fillsColor:0, drawShadows:0, hasBlur:0)
+03-27 20:23:40.465   942   942 D mali_gralloc: unregister: id=38e0001186a, handle=0xb400007bafd2f070, base=0x0, importpid=942, count:0
+03-27 20:23:40.465   911  3225 D mali_gralloc: unregister: id=38e0001186b, handle=0xb4000071bb4ba770, base=0x0, importpid=911, count:0
+03-27 20:23:40.465   911  3225 D mali_gralloc: unregister: id=38e0001186d, handle=0xb4000071bb4b7cb0, base=0x0, importpid=911, count:0
+03-27 20:23:40.465   911  3225 D mali_gralloc: unregister: id=38e0001186c, handle=0xb4000071bb4a70f0, base=0x0, importpid=911, count:0
+03-27 20:23:40.466  1331  3671 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 daf7d28 Splash Screen com.smartfit.app.test 5ef721f com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 1a25f2f ActivityRecordInputSink com.smartfit.app.test
+03-27 20:23:40.467   911  3225 D mali_gralloc: unregister: id=38e0001186a, handle=0xb4000071bb4b6510, base=0x0, importpid=911, count:0
+03-27 20:23:40.468   911  3225 D mali_gralloc: unregister: id=38e0001186f, handle=0xb4000071bb4b6cf0, base=0x0, importpid=911, count:0
+03-27 20:23:40.469   942  1001 D mali_gralloc: unregister: id=38e0001186b, handle=0xb400007bafd17d30, base=0x0, importpid=942, count:0
+03-27 20:23:40.470   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.470   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.470   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.471   905 12441 W Cam3Channel: 934, getStream: channel has no valied stream(type is 7)
+03-27 20:23:40.471   905 12450 I FDV3    : [find, 710]: src:640x480 detect:224 face_num=0 1.21 ms
+03-27 20:23:40.471 11663 11663 D LifecycleMonitor: Lifecycle status change: com.smartfit.app.MainActivity@bfe00f2 in: CREATED
+03-27 20:23:40.472 11663 11663 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.smartfit.app.MainActivity@bfe00f2
+03-27 20:23:40.472   905 12441 I Cam3Setting: 6634, translateLocalToFwMetadata: calib_status_value:0
+03-27 20:23:40.472 11663 11663 D LifecycleMonitor: Lifecycle status change: com.smartfit.app.MainActivity@bfe00f2 in: STARTED
+03-27 20:23:40.473   905 12441 E Cam3Channel: 1588, getMetadata: AE or AF callback error, give default metadata 0xe040a490
+03-27 20:23:40.473 11663 11663 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.smartfit.app.MainActivity@bfe00f2
+03-27 20:23:40.474   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.474   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.474   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.475 11663 11663 D LifecycleMonitor: Lifecycle status change: com.smartfit.app.MainActivity@bfe00f2 in: RESUMED
+03-27 20:23:40.476 11663 11663 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.smartfit.app.MainActivity@bfe00f2
+03-27 20:23:40.478   905 28962 E Cam3OEMIf: 12560, queueBuffer: mFtEnable 0
+03-27 20:23:40.481   910  1004 I mali_gralloc: allocate: id=38e0001187c, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[app]#1113(BLAST Consumer)1113
+03-27 20:23:40.481 24402 12508 D mali_gralloc: register: id=38e0001187c, handle=0xb400007e6c14dc50, importpid=-1, gRegisteredHandles=62
+03-27 20:23:40.482   928   928 D PowerHAL: Enter getSceneIdByName: sceneName:com.smartfit.app
+03-27 20:23:40.482   928   928 D PowerHAL: Enter getSceneIdByName: sceneName:PACKAGE
+03-27 20:23:40.482   910  1004 I mali_gralloc: allocate: id=38e0001187d, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[app]#1113(BLAST Consumer)1113
+03-27 20:23:40.483 24402 12508 D mali_gralloc: register: id=38e0001187d, handle=0xb400007e6c1448f0, importpid=-1, gRegisteredHandles=63
+03-27 20:23:40.484   942   994 D mali_gralloc: register: id=38e0001187c, handle=0xb400007bafd36f90, importpid=24402, gRegisteredHandles=42
+03-27 20:23:40.485   910  1004 I mali_gralloc: allocate: id=38e0001187e, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[app]#1113(BLAST Consumer)1113
+03-27 20:23:40.485 24402 12508 D mali_gralloc: register: id=38e0001187e, handle=0xb400007e6c12db50, importpid=-1, gRegisteredHandles=64
+03-27 20:23:40.486 11663 11663 D InputEventReceiver: android_view_InputEventReceiver debug log is enabled
+03-27 20:23:40.486 11663 11663 D InputEventReceiver: channel 'fd50001 com.smartfit.app/com.smartfit.app.MainActivity (client)' ~ Initializing input event receiver.
+03-27 20:23:40.487   910  1004 I mali_gralloc: allocate: id=38e0001187f, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[app]#1113(BLAST Consumer)1113
+03-27 20:23:40.488 24402 12508 D mali_gralloc: register: id=38e0001187f, handle=0xb400007e6c0eeeb0, importpid=-1, gRegisteredHandles=65
+03-27 20:23:40.496   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.496   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.497   905 12437 E awb_adpt: 1469, awb_sprd_ctrl_calculation_v3_2: check handle success
+03-27 20:23:40.497   905 12421 I sprd_hdr_adapter: L 200, sprd_hdr_adpt_detect: detect current hdr type: 2, detect_in_param: 0xdb33cbe0, detect_out_param: 0xdb33cd40
+03-27 20:23:40.497   905 12422 I isp_blk_cmc10: 268, _pm_cmc10_set_param: cmc_result: (2437 14875 95; 16086 1352 16353; 146 15156 2104).
+03-27 20:23:40.497   905 12422 E isp_alg_fw: 3931, ispalg_gtm_process: hist_total is 0, gtm no process !!!
+03-27 20:23:40.498   905 12421 E Libae[FAE]: 1926, face_luma_calc: NO FACE
+03-27 20:23:40.498   905 12421 W Libae[ABL]: 585,abl_bv_interpolation:tune param num should bigger than 1
+03-27 20:23:40.498  1331  1429 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 c2300c9 Splash Screen com.smartfit.app daf7d28 Splash Screen com.smartfit.app.test 5ef721f com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 1a25f2f Activi
+03-27 20:23:40.499   905 12421 I cmr_oem : 10954, camera_get_af_support: af_support 0
+03-27 20:23:40.500 11663 11663 D MainActivity: Rendering with isDarkTheme=true
+03-27 20:23:40.513 12011 12025 D mali_gralloc: unregister: id=38e00011872, handle=0xb400007e6bf88770, base=0x0, importpid=12011, count:0
+03-27 20:23:40.514   942   942 I Layer   : fillInputInfo layer:1a25f2f ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#28592, visible=0 (hasInputInfo:1, isHidden:1, alpha:1.000000, parent:ActivityRecord{87d093c u0 com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#28585,parenthidden:1, parentalpha:1.000000, mBuffer:0, mSidebandStream:0,hasSomethingToDraw:0, hasEffect:0, fillsColor:0, drawShadows:0, hasBlur:0)
+03-27 20:23:40.514   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.514   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.514   942   942 I Layer   : fillInputInfo layer:62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity#28616, visible=1 (hasInputInfo:1, isHidden:0, alpha:0.000000, parent:ActivityRecord{50e2bf6 u0 com.smartfit.app/.MainActivity#28609,parenthidden:0, parentalpha:0.000000, mBuffer:0, mSidebandStream:0,hasSomethingToDraw:0, hasEffect:0, fillsColor:0, drawShadows:0, hasBlur:0)
+03-27 20:23:40.515 12011 12025 D mali_gralloc: unregister: id=38e00011871, handle=0xb400007e6bf7a8b0, base=0x0, importpid=12011, count:0
+03-27 20:23:40.516  1331  4257 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 daf7d28 Splash Screen com.smartfit.app.test 5ef721f com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 1a25f2f ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.goo
+03-27 20:23:40.517 12011 12025 D mali_gralloc: unregister: id=38e00011870, handle=0xb400007e6bf85dd0, base=0x0, importpid=12011, count:0
+03-27 20:23:40.520   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.520   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.520   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.520   905 12441 W Cam3Channel: 934, getStream: channel has no valied stream(type is 7)
+03-27 20:23:40.520   905 12450 I FDV3    : [find, 710]: src:640x480 detect:224 face_num=0 0.65 ms
+03-27 20:23:40.522   905 12441 I Cam3Setting: 6634, translateLocalToFwMetadata: calib_status_value:0
+03-27 20:23:40.522   905 12441 E Cam3Channel: 1588, getMetadata: AE or AF callback error, give default metadata 0xe04014a0
+03-27 20:23:40.523   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.523   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.523   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.527   905 28962 E Cam3OEMIf: 12560, queueBuffer: mFtEnable 0
+03-27 20:23:40.527 12011 12011 D mali_gralloc: unregister: id=38e0001186f, handle=0xb400007e6bf867f0, base=0x0, importpid=12011, count:0
+03-27 20:23:40.528 11691 11691 I btyz    : onPause
+03-27 20:23:40.529   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.529   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.530  1331  4257 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 daf7d28 Splash Screen com.smartfit.app.test 5ef721f com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 1a25f2f ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.goo
+03-27 20:23:40.537 24402 28414 D FaceUnlock: onTaskStackChangedBackground
+03-27 20:23:40.539 24402 28414 D FaceUnlock: PackageName =com.smartfit.app
+03-27 20:23:40.543 32238 31857 D mali_gralloc: register: id=38e0001187b, handle=0xb400007e6bfc7bf0, importpid=1331, gRegisteredHandles=65
+03-27 20:23:40.546   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.546   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.547   905 12437 E awb_adpt: 1469, awb_sprd_ctrl_calculation_v3_2: check handle success
+03-27 20:23:40.547   905 12421 I sprd_hdr_adapter: L 200, sprd_hdr_adpt_detect: detect current hdr type: 2, detect_in_param: 0xdb33cbe0, detect_out_param: 0xdb33cd40
+03-27 20:23:40.547   905 12422 I isp_blk_cmc10: 268, _pm_cmc10_set_param: cmc_result: (2437 14875 95; 16086 1352 16353; 146 15156 2104).
+03-27 20:23:40.547   905 12422 E isp_alg_fw: 3931, ispalg_gtm_process: hist_total is 0, gtm no process !!!
+03-27 20:23:40.548  1331  4257 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 daf7d28 Splash Screen com.smartfit.app.test 5ef721f com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 1a25f2f ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.goo
+03-27 20:23:40.549   905 12421 E Libae[FAE]: 1926, face_luma_calc: NO FACE
+03-27 20:23:40.549   905 12421 W Libae[ABL]: 585,abl_bv_interpolation:tune param num should bigger than 1
+03-27 20:23:40.549   905 12421 I cmr_oem : 10954, camera_get_af_support: af_support 0
+03-27 20:23:40.557  1057  2381 D AudioAnalytics: gc(1700, 2000): log size:1700 item map size:63, item map items:1700
+03-27 20:23:40.562   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.562   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.562   942   942 I Layer   : fillInputInfo layer:Splash Screen com.smartfit.app#28612, visible=1 (hasInputInfo:1, isHidden:0, alpha:0.120300, parent:c2300c9 Splash Screen com.smartfit.app#28611,parenthidden:0, parentalpha:0.120300, mBuffer:1, mSidebandStream:0,hasSomethingToDraw:1, hasEffect:0, fillsColor:0, drawShadows:0, hasBlur:0)
+03-27 20:23:40.564  1331  4257 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 daf7d28 Splash Screen com.smartfit.app.test 5ef721f com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 1a25f2f ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.goo
+03-27 20:23:40.564   911  3225 D SPRDHWComposer: HWC Range:1, HWC_Transfer:4
+03-27 20:23:40.564   911  3225 D mali_gralloc: register: id=38e0001187c, handle=0xb4000071bb4b6cf0, importpid=942, gRegisteredHandles=37
+03-27 20:23:40.570 31983 32277 D AudioFlinger: mixer(0xb400007713a98910) throttle end: throttle time(1)
+03-27 20:23:40.570   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.570   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.570   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.571   905 12441 W Cam3Channel: 934, getStream: channel has no valied stream(type is 7)
+03-27 20:23:40.571   905 12450 I FDV3    : [find, 710]: src:640x480 detect:224 face_num=0 0.78 ms
+03-27 20:23:40.572   905 12441 I Cam3Setting: 6634, translateLocalToFwMetadata: calib_status_value:0
+03-27 20:23:40.573   905 12441 E Cam3Channel: 1588, getMetadata: AE or AF callback error, give default metadata 0xe040a490
+03-27 20:23:40.574   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.574   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.574   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.578   905  1312 E Cam3OEMIf: 12560, queueBuffer: mFtEnable 0
+03-27 20:23:40.579   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.579   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.580  1331  4257 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 daf7d28 Splash Screen com.smartfit.app.test 5ef721f com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 1a25f2f ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.goo
+03-27 20:23:40.593   910  1004 I mali_gralloc: allocate: id=38e00011880, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[MainActivity]#5(BLAST Consumer)5
+03-27 20:23:40.594 11663 12509 D mali_gralloc: register: id=38e00011880, handle=0xb400007e6bfa0dd0, importpid=-1, gRegisteredHandles=0
+03-27 20:23:40.595   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.596   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.596   910  1004 I mali_gralloc: allocate: id=38e00011881, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[MainActivity]#5(BLAST Consumer)5
+03-27 20:23:40.596 11663 12509 D mali_gralloc: register: id=38e00011881, handle=0xb400007e6bfa1c70, importpid=-1, gRegisteredHandles=1
+03-27 20:23:40.597  1331  4257 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 daf7d28 Splash Screen com.smartfit.app.test 5ef721f com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 1a25f2f ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.goo
+03-27 20:23:40.598   905 12422 I isp_blk_cmc10: 268, _pm_cmc10_set_param: cmc_result: (2437 14875 95; 16086 1352 16353; 146 15156 2104).
+03-27 20:23:40.598   905 12422 E isp_alg_fw: 3931, ispalg_gtm_process: hist_total is 0, gtm no process !!!
+03-27 20:23:40.599   905 12437 E awb_adpt: 1469, awb_sprd_ctrl_calculation_v3_2: check handle success
+03-27 20:23:40.600   905 12421 I sprd_hdr_adapter: L 200, sprd_hdr_adpt_detect: detect current hdr type: 2, detect_in_param: 0xdb33cbe0, detect_out_param: 0xdb33cd40
+03-27 20:23:40.602   905 12421 E Libae[FAE]: 1926, face_luma_calc: NO FACE
+03-27 20:23:40.602   905 12421 W Libae[ABL]: 585,abl_bv_interpolation:tune param num should bigger than 1
+03-27 20:23:40.602   905 12421 I cmr_oem : 10954, camera_get_af_support: af_support 0
+03-27 20:23:40.614   910  1004 I mali_gralloc: allocate: id=38e00011882, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[MainActivity]#5(BLAST Consumer)5
+03-27 20:23:40.615 11663 12509 D mali_gralloc: register: id=38e00011882, handle=0xb400007e6bf9d350, importpid=-1, gRegisteredHandles=2
+03-27 20:23:40.617   910  1004 I mali_gralloc: allocate: id=38e00011883, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[MainActivity]#5(BLAST Consumer)5
+03-27 20:23:40.617 11663 12509 D mali_gralloc: register: id=38e00011883, handle=0xb400007e6bf9b610, importpid=-1, gRegisteredHandles=3
+03-27 20:23:40.620   905 12450 I FDV3    : [find, 710]: src:640x480 detect:224 face_num=0 1.06 ms
+03-27 20:23:40.622   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.622   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.622   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.622   905 12441 W Cam3Channel: 934, getStream: channel has no valied stream(type is 7)
+03-27 20:23:40.624   905 12441 I Cam3Setting: 6634, translateLocalToFwMetadata: calib_status_value:0
+03-27 20:23:40.624   942   994 D mali_gralloc: register: id=38e00011883, handle=0xb400007bafd2c5b0, importpid=11663, gRegisteredHandles=43
+03-27 20:23:40.624   905 12441 E Cam3Channel: 1588, getMetadata: AE or AF callback error, give default metadata 0xe040a490
+03-27 20:23:40.628   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.628   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.628   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.629   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.629   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.631  1331  4257 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 5ef721f com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 1a25f2f ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim lay
+03-27 20:23:40.631  1331  4257 D InputDispatcher: Window went away: daf7d28 Splash Screen com.smartfit.app.test
+03-27 20:23:40.633   905 28962 E Cam3OEMIf: 12560, queueBuffer: mFtEnable 0
+03-27 20:23:40.638  1331  1352 I ActivityTaskManager: Displayed com.smartfit.app/.MainActivity for user 0: +240ms
+03-27 20:23:40.641   928   928 D PowerHAL: enter power::setMode
+03-27 20:23:40.641   928   928 D PowerHAL: PowerSessionManager::updateHintMode: mode: LAUNCH, enabled: 0
+03-27 20:23:40.641   928   928 D PowerHAL: PowerSessionManager::updateHintMode resValue = 0
+03-27 20:23:40.641   928   928 D PowerHAL: ###Exit launch scene bgn###
+03-27 20:23:40.641   928   928 D PowerHAL: Enter common_set: enable:0, duration: 0, /sys/devices/system/cpu/cpufreq/policy0/scaling_min_freq: 1820000
+03-27 20:23:40.641   928   928 D PowerHAL: Enter set_cluster_freqs_max_min:
+03-27 20:23:40.641   928   928 D PowerHAL: Enter common_set: enable:0, duration: 0, /sys/devices/system/cpu/cpufreq/policy0/scaling_max_freq: 1820000
+03-27 20:23:40.641   928   928 D PowerHAL: Enter set_cluster_freqs_max_min:
+03-27 20:23:40.641   928   928 D PowerHAL: Enter common_set: enable:0, duration: 0, /sys/devices/system/cpu/cpufreq/policy6/scaling_min_freq: 2028000
+03-27 20:23:40.641   928   928 D PowerHAL: Enter set_cluster_freqs_max_min:
+03-27 20:23:40.641   928   928 D PowerHAL: Enter common_set: enable:0, duration: 0, /sys/devices/system/cpu/cpufreq/policy6/scaling_max_freq: 2028000
+03-27 20:23:40.641   928   928 D PowerHAL: Enter set_cluster_freqs_max_min:
+03-27 20:23:40.641   928   928 D PowerHAL: Enter devfreq_ddr_set: enable:0, duration: 0, /sys/class/devfreq/scene-frequency/sprd-governor/scene_boost_dfs: max
+03-27 20:23:40.641   928   928 D PowerHAL: ###Exit launch scene end###
+03-27 20:23:40.643   942   942 D SurfaceFlinger: VRR attempt to change display mode to 1
+03-27 20:23:40.643   942   942 I RefreshRateSelector: Display 4619827259835644672 policy changed
+03-27 20:23:40.643   942   942 I RefreshRateSelector: Previous: {defaultModeId=0, allowGroupSwitching=false, primaryRanges={physical=[60.00 Hz, 120.00 Hz], render=[60.00 Hz, 60.00 Hz]}, appRequestRanges={physical=[60.00 Hz, 120.00 Hz], render=[60.00 Hz, 120.00 Hz]}}
+03-27 20:23:40.643   942   942 I RefreshRateSelector: Current:  DisplayManagerPolicy{defaultModeId=1, allowGroupSwitching=false, primaryRanges={physical=[0.00 Hz, 120.00 Hz], render=[0.00 Hz, 90.00 Hz]}, appRequestRanges={physical=[0.00 Hz, 120.00 Hz], render=[0.00 Hz, 120.00 Hz]}}
+03-27 20:23:40.643   942   942 I RefreshRateSelector: 1 mode changes were performed under the previous policy
+03-27 20:23:40.646   911  1023 D SPRDHWComposer: HWCDisplay::get_display_attribute <601>: config = 1
+03-27 20:23:40.646   911  1023 D SPRDHWComposer: SprdDrm:: getActiveConfig: 0
+03-27 20:23:40.646   911  1023 D SPRDHWComposer: HWCDisplay::get_display_attribute <601>: config = 0
+03-27 20:23:40.646   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.646   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.646   942   942 I Layer   : fillInputInfo layer:com.smartfit.app/com.smartfit.app.MainActivity#28617, visible=1 (hasInputInfo:1, isHidden:0, alpha:0.744141, parent:fd50001 com.smartfit.app/com.smartfit.app.MainActivity#28613,parenthidden:0, parentalpha:0.744141, mBuffer:1, mSidebandStream:0,hasSomethingToDraw:1, hasEffect:0, fillsColor:0, drawShadows:0, hasBlur:0)
+03-27 20:23:40.647   905 12421 I sprd_hdr_adapter: L 200, sprd_hdr_adpt_detect: detect current hdr type: 2, detect_in_param: 0xdb33cbe0, detect_out_param: 0xdb33cd40
+03-27 20:23:40.647   905 12422 I isp_blk_cmc10: 268, _pm_cmc10_set_param: cmc_result: (2437 14875 95; 16086 1352 16353; 146 15156 2104).
+03-27 20:23:40.648   905 12422 E isp_alg_fw: 3931, ispalg_gtm_process: hist_total is 0, gtm no process !!!
+03-27 20:23:40.648  1331  4257 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 5ef721f com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 1a25f2f ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim lay
+03-27 20:23:40.648   905 12437 E awb_adpt: 1469, awb_sprd_ctrl_calculation_v3_2: check handle success
+03-27 20:23:40.648   911  1023 D SPRDHWComposer: HWC Range:1, HWC_Transfer:4
+03-27 20:23:40.648   905 12421 E Libae[FAE]: 1926, face_luma_calc: NO FACE
+03-27 20:23:40.649   905 12421 W Libae[ABL]: 585,abl_bv_interpolation:tune param num should bigger than 1
+03-27 20:23:40.649   911  1023 D mali_gralloc: register: id=38e00011883, handle=0xb4000071bb4b6510, importpid=942, gRegisteredHandles=38
+03-27 20:23:40.649   911  1023 D SPRDHWComposer: SprdDrm:: getActiveConfig: 0
+03-27 20:23:40.649   911  1023 D SPRDHWComposer: HWCDisplay::get_display_attribute <601>: config = 1
+03-27 20:23:40.649   911  1023 I SPRDHWComposer: SprdDrm:: setActiveConfig: 1, DisplayType:0
+03-27 20:23:40.649   911  1023 I SPRDHWComposer: Create blob_id: 96
+03-27 20:23:40.649   942   994 D mali_gralloc: register: id=38e0001187f, handle=0xb400007bafd2a870, importpid=24402, gRegisteredHandles=44
+03-27 20:23:40.649   942  1001 D mali_gralloc: unregister: id=38e0001186d, handle=0xb400007bafd224d0, base=0x0, importpid=942, count:0
+03-27 20:23:40.650  1331  1465 D InputDispatcher: dispatchEventToCurrentInputTargets
+03-27 20:23:40.650  1331  1465 D InputDispatcher: channel 'fd50001 com.smartfit.app/com.smartfit.app.MainActivity (server)' ~ prepareDispatchCycle - flags=DISPATCH_AS_IS, globalScaleFactor=1.000000, pointerIds=00000000000000000000000000000000
+03-27 20:23:40.650  1331  1465 D InputDispatcher:         default (ROT_0) (IDENTITY)
+03-27 20:23:40.650  1331  1465 D InputDispatcher: channel 'fd50001 com.smartfit.app/com.smartfit.app.MainActivity (server)' ~ startDispatchCycle
+03-27 20:23:40.650 11663 11663 D InputEventReceiver: channel 'fd50001 com.smartfit.app/com.smartfit.app.MainActivity (client)' ~ Consuming input events, consumeBatches=false, frameTime=-1
+03-27 20:23:40.651 11663 11663 D InputEventReceiver: channel 'fd50001 com.smartfit.app/com.smartfit.app.MainActivity (client)' ~ Received focus event: hasFocus=true.
+03-27 20:23:40.651 11663 11663 D InputEventReceiver: channel 'fd50001 com.smartfit.app/com.smartfit.app.MainActivity (client)' ~ Finished input event.
+03-27 20:23:40.651   905 12421 I cmr_oem : 10954, camera_get_af_support: af_support 0
+03-27 20:23:40.651  1331  1465 D InputDispatcher: channel 'fd50001 com.smartfit.app/com.smartfit.app.MainActivity (server)' ~ finishDispatchCycle - seq=588129, handled=true
+03-27 20:23:40.651  1331  1465 D InputDispatcher: channel 'fd50001 com.smartfit.app/com.smartfit.app.MainActivity (server)' ~ startDispatchCycle
+03-27 20:23:40.652 12011 12011 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@3f2687
+03-27 20:23:40.656  1331  3671 W InputManager-JNI: Input channel object '5ef721f com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+03-27 20:23:40.657  1331  1429 I ImeTracker: com.smartfit.app:2c98d919: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+03-27 20:23:40.657  1331  1429 I ImeTracker: com.smartfit.app:2c98d919: onCancelled at PHASE_SERVER_SHOULD_HIDE
+03-27 20:23:40.660 12011 12011 D InputEventReceiver: channel '5ef721f com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' ~ Disposing input event receiver.
+03-27 20:23:40.660   942  1386 D mali_gralloc: register: id=38e0001187e, handle=0xb400007bafd1da90, importpid=24402, gRegisteredHandles=44
+03-27 20:23:40.664 13146 13146 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2114
+03-27 20:23:40.665 13146 13146 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+03-27 20:23:40.665 13146 13146 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1385 onStartInput(EditorInfo{EditorInfo{packageName=com.smartfit.app, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+03-27 20:23:40.666 13146 13146 I AndroidIME: LatinIMEBase.updateInputViewCoverNavigation():314 Update input view padding, extendsTouchBelowSpace=false, bottom inset=84
+03-27 20:23:40.667 13146 13146 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+03-27 20:23:40.668 30322 30478 D BLASTBufferQueue: [VRI[VoipActivityV2]#44](f:0,a:2) has set transaction callback, frameNumber = 130
+03-27 20:23:40.670   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.670   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.670   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.670   905 12441 W Cam3Channel: 934, getStream: channel has no valied stream(type is 7)
+03-27 20:23:40.670   905 12450 I FDV3    : [find, 710]: src:640x480 detect:224 face_num=0 1.15 ms
+03-27 20:23:40.672   905 12441 I Cam3Setting: 6634, translateLocalToFwMetadata: calib_status_value:0
+03-27 20:23:40.672  1331  1356 D SurfaceComposerClient: [com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2#28488] frameNumber = 130 will apply
+03-27 20:23:40.672   905 12441 E Cam3Channel: 1588, getMetadata: AE or AF callback error, give default metadata 0xe0400010
+03-27 20:23:40.674   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.674   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.674   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.677   942  1387 D mali_gralloc: register: id=38e0001187d, handle=0xb400007bafd276f0, importpid=24402, gRegisteredHandles=45
+03-27 20:23:40.680   905 28962 E Cam3OEMIf: 12560, queueBuffer: mFtEnable 0
+03-27 20:23:40.685   942   942 D SurfaceFlinger: VRR attempt to change display mode to 0
+03-27 20:23:40.685   942   942 I RefreshRateSelector: Display 4619827259835644672 policy changed
+03-27 20:23:40.685   942   942 I RefreshRateSelector: Previous: {defaultModeId=1, allowGroupSwitching=false, primaryRanges={physical=[0.00 Hz, 120.00 Hz], render=[0.00 Hz, 90.00 Hz]}, appRequestRanges={physical=[0.00 Hz, 120.00 Hz], render=[0.00 Hz, 120.00 Hz]}}
+03-27 20:23:40.685   942   942 I RefreshRateSelector: Current:  DisplayManagerPolicy{defaultModeId=0, allowGroupSwitching=false, primaryRanges={physical=[60.00 Hz, 120.00 Hz], render=[60.00 Hz, 60.00 Hz]}, appRequestRanges={physical=[60.00 Hz, 120.00 Hz], render=[60.00 Hz, 120.00 Hz]}}
+03-27 20:23:40.685   942   942 I RefreshRateSelector: 1 mode changes were performed under the previous policy
+03-27 20:23:40.690   911  1023 D SPRDHWComposer: HWCDisplay::get_display_attribute <601>: config = 0
+03-27 20:23:40.690   911  1023 D SPRDHWComposer: SprdDrm:: getActiveConfig: 1
+03-27 20:23:40.690   911  1023 D SPRDHWComposer: HWCDisplay::get_display_attribute <601>: config = 1
+03-27 20:23:40.690   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.690   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.691  1331  3671 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 1a25f2f ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 c2300c9 Splash Screen com.smartfit.app fd50001 com.smartfit.app/com.smart
+03-27 20:23:40.691  1331  3671 D InputDispatcher: Window went away: 5ef721f com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+03-27 20:23:40.692   911  1023 D mali_gralloc: register: id=38e0001187f, handle=0xb4000071bb4a70f0, importpid=942, gRegisteredHandles=39
+03-27 20:23:40.692   911  1023 D SPRDHWComposer: SprdDrm:: getActiveConfig: 1
+03-27 20:23:40.692   911  1023 D SPRDHWComposer: HWCDisplay::get_display_attribute <601>: config = 0
+03-27 20:23:40.692   911  1023 I SPRDHWComposer: SprdDrm:: setActiveConfig: 0, DisplayType:0
+03-27 20:23:40.692   911  1023 I SPRDHWComposer: Create blob_id: 95
+03-27 20:23:40.693   942  1211 W HWComposer: Ignoring duplicate VSYNC event from HWC for display 4619827259835644672 (t=314322801477000)
+03-27 20:23:40.698   905 12422 I isp_blk_cmc10: 268, _pm_cmc10_set_param: cmc_result: (2437 14875 95; 16086 1352 16353; 146 15156 2104).
+03-27 20:23:40.698   905 12421 I sprd_hdr_adapter: L 200, sprd_hdr_adpt_detect: detect current hdr type: 2, detect_in_param: 0xdb33cbe0, detect_out_param: 0xdb33cd40
+03-27 20:23:40.698   905 12422 E isp_alg_fw: 3931, ispalg_gtm_process: hist_total is 0, gtm no process !!!
+03-27 20:23:40.698   905 12437 E awb_adpt: 1469, awb_sprd_ctrl_calculation_v3_2: check handle success
+03-27 20:23:40.699   905 12421 E Libae[FAE]: 1926, face_luma_calc: NO FACE
+03-27 20:23:40.699   905 12421 W Libae[ABL]: 585,abl_bv_interpolation:tune param num should bigger than 1
+03-27 20:23:40.700   905 12421 I cmr_oem : 10954, camera_get_af_support: af_support 0
+03-27 20:23:40.703 24402 24415 D BLASTBufferQueue: [VRI[app]#1113](f:0,a:4) PendingRelease=1, PendingBuffersToHold=0, SyncedFrameNumbers=0, lacfnr:4, lapfnr:4
+03-27 20:23:40.719   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.719   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.719   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.719   905 12441 W Cam3Channel: 934, getStream: channel has no valied stream(type is 7)
+03-27 20:23:40.721   905 12450 I FDV3    : [getDetectImage, 298]: isTransform.
+03-27 20:23:40.721   905 12441 I Cam3Setting: 6634, translateLocalToFwMetadata: calib_status_value:0
+03-27 20:23:40.721   905 12441 E Cam3Channel: 1588, getMetadata: AE or AF callback error, give default metadata 0xe040a490
+03-27 20:23:40.723   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.723   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.723   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.726   905 28962 E Cam3OEMIf: 12560, queueBuffer: mFtEnable 0
+03-27 20:23:40.736   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.737   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.738  1331  1698 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 c2300c9 Splash Screen com.smartfit.app fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 28bb50b com.android.launcher3/com.andr
+03-27 20:23:40.738   942  1001 D mali_gralloc: unregister: id=38e0001186f, handle=0xb400007bafd333f0, base=0x0, importpid=942, count:0
+03-27 20:23:40.738  1331  1698 D InputDispatcher: Window went away: 1a25f2f ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+03-27 20:23:40.738   911  1023 D mali_gralloc: register: id=38e0001187e, handle=0xb4000071bb4b7cb0, importpid=942, gRegisteredHandles=40
+03-27 20:23:40.746   905 12450 I FDV3    : [find, 710]: src:640x480 detect:224 face_num=0 26.98 ms
+03-27 20:23:40.748   905 12421 I sprd_hdr_adapter: L 200, sprd_hdr_adpt_detect: detect current hdr type: 2, detect_in_param: 0xdb33cbe0, detect_out_param: 0xdb33cd40
+03-27 20:23:40.748   905 12422 I isp_blk_cmc10: 268, _pm_cmc10_set_param: cmc_result: (2437 14875 95; 16086 1352 16353; 146 15156 2104).
+03-27 20:23:40.748   905 12437 E awb_adpt: 1469, awb_sprd_ctrl_calculation_v3_2: check handle success
+03-27 20:23:40.748   905 12422 E isp_alg_fw: 3931, ispalg_gtm_process: hist_total is 0, gtm no process !!!
+03-27 20:23:40.749   905 12421 E Libae[FAE]: 1926, face_luma_calc: NO FACE
+03-27 20:23:40.749   905 12421 W Libae[ABL]: 585,abl_bv_interpolation:tune param num should bigger than 1
+03-27 20:23:40.749   905 12421 I cmr_oem : 10954, camera_get_af_support: af_support 0
+03-27 20:23:40.751 24402 25237 D BLASTBufferQueue: [VRI[app]#1113](f:0,a:4) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:5, lapfnr:5
+03-27 20:23:40.751 24402 25237 D BLASTBufferQueue: [VRI[app]#1113](f:0,a:4) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:5, lapfnr:5
+03-27 20:23:40.754  1331  1878 D AlarmManagerService: set alarm to kernel: 449022.994000000, type=2
+03-27 20:23:40.754  1331  1878 D AlarmManagerService: set alarm to kernel: 448993.966000000, type=3
+03-27 20:23:40.754  1331  1878 D AlarmManagerService: set alarm to kernel: 449022.994000000, type=2
+03-27 20:23:40.754  1331  1878 D AlarmManagerService: set alarm to kernel: 448993.966000000, type=3
+03-27 20:23:40.762   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.762   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.763   911  1023 D mali_gralloc: register: id=38e0001187d, handle=0xb4000071bb4ba770, importpid=942, gRegisteredHandles=41
+03-27 20:23:40.763  1331  1878 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 c2300c9 Splash Screen com.smartfit.app fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 28bb50b com.android.launcher3/com.andr
+03-27 20:23:40.770   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.770   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.770   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.770   905 12441 W Cam3Channel: 934, getStream: channel has no valied stream(type is 7)
+03-27 20:23:40.770   905 12450 I FDV3    : [find, 710]: src:640x480 detect:224 face_num=0 0.80 ms
+03-27 20:23:40.771 24402 25237 D BLASTBufferQueue: [VRI[app]#1113](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:5, lapfnr:5
+03-27 20:23:40.771 24402 25237 D BLASTBufferQueue: [VRI[app]#1113](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:5, lapfnr:5
+03-27 20:23:40.772 24402 24402 W FrameTracker: Missed App frame:JANK_APP_DEADLINE_MISSED, 36565897, 0, CUJ=J<PIP_TRANSITION::TRANSITION_LEAVE_UNKNOWN>
+03-27 20:23:40.772   905 12441 I Cam3Setting: 6634, translateLocalToFwMetadata: calib_status_value:0
+03-27 20:23:40.772   905 12441 E Cam3Channel: 1588, getMetadata: AE or AF callback error, give default metadata 0xe0400010
+03-27 20:23:40.773 17156  7959 I NearbySharing: Network state changed: NetworkState(isRestricted=false, isOnline=true, isCongested=false, isMetered=false, isWifiConnected=true)
+03-27 20:23:40.774   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.774   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.774   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.775 24402 24402 D NotificationShadeWindowController: isKeyguardShowingAndNotOccluded= false keyguardFadingAway=false keygaurdTransparent=false
+03-27 20:23:40.777   905  1312 E Cam3OEMIf: 12560, queueBuffer: mFtEnable 0
+03-27 20:23:40.778   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.778   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.780  1331  4265 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 c2300c9 Splash Screen com.smartfit.app fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 28bb50b com.android.launcher3/com.andr
+03-27 20:23:40.786 24402 24415 D BLASTBufferQueue: [VRI[app]#1113](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:6, lapfnr:6
+03-27 20:23:40.786 24402 24415 D BLASTBufferQueue: [VRI[app]#1113](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:6, lapfnr:6
+03-27 20:23:40.795   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.795   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.796  1331  1878 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 c2300c9 Splash Screen com.smartfit.app fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 28bb50b com.android.launcher3/com.andr
+03-27 20:23:40.798   905 12421 I sprd_hdr_adapter: L 200, sprd_hdr_adpt_detect: detect current hdr type: 2, detect_in_param: 0xdb33cbe0, detect_out_param: 0xdb33cd40
+03-27 20:23:40.798   905 12422 I isp_blk_cmc10: 268, _pm_cmc10_set_param: cmc_result: (2437 14875 95; 16086 1352 16353; 146 15156 2104).
+03-27 20:23:40.798   905 12422 E isp_alg_fw: 3931, ispalg_gtm_process: hist_total is 0, gtm no process !!!
+03-27 20:23:40.799   905 12437 E awb_adpt: 1469, awb_sprd_ctrl_calculation_v3_2: check handle success
+03-27 20:23:40.800   905 12421 E Libae[FAE]: 1926, face_luma_calc: NO FACE
+03-27 20:23:40.800   905 12421 W Libae[ABL]: 585,abl_bv_interpolation:tune param num should bigger than 1
+03-27 20:23:40.800   905 12421 I cmr_oem : 10954, camera_get_af_support: af_support 0
+03-27 20:23:40.801 24402 24487 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@8353e10
+03-27 20:23:40.803  1331  4265 W InputManager-JNI: Input channel object 'c2300c9 Splash Screen com.smartfit.app (client)' was disposed without first being removed with the input manager!
+03-27 20:23:40.805 24402 24415 D BLASTBufferQueue: [VRI[app]#1113](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:7, lapfnr:7
+03-27 20:23:40.805 24402 24415 D mali_gralloc: unregister: id=38e0001187d, handle=0xb400007e6c1448f0, base=0x0, importpid=24402, count:0
+03-27 20:23:40.806 24402 24415 D BLASTBufferQueue: [VRI[app]#1113](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:7, lapfnr:7
+03-27 20:23:40.806 24402 24487 D InputEventReceiver: channel 'c2300c9 Splash Screen com.smartfit.app (client)' ~ Disposing input event receiver.
+03-27 20:23:40.812   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.812   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.813  1331  4265 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 c2300c9 Splash Screen com.smartfit.app fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 28bb50b com.android.launcher3/com.andr
+03-27 20:23:40.813   911  1023 D mali_gralloc: unregister: id=38e0001187a, handle=0xb4000071bb4b5c10, base=0x0, importpid=911, count:0
+03-27 20:23:40.813   911  1023 D mali_gralloc: unregister: id=38e00011879, handle=0xb4000071bb4b5790, base=0x0, importpid=911, count:0
+03-27 20:23:40.813   911  1023 D mali_gralloc: unregister: id=38e00011876, handle=0xb4000071bb4b7b90, base=0x0, importpid=911, count:0
+03-27 20:23:40.813   911  1023 D mali_gralloc: unregister: id=38e00011878, handle=0xb4000071bb4b59d0, base=0x0, importpid=911, count:0
+03-27 20:23:40.813   911  1023 D mali_gralloc: unregister: id=38e0000862f, handle=0xb4000071bb4b4b30, base=0x0, importpid=911, count:0
+03-27 20:23:40.814   942  1001 D mali_gralloc: unregister: id=38e0001187d, handle=0xb400007bafd276f0, base=0x0, importpid=942, count:0
+03-27 20:23:40.820   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.820   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.820   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.820   905 12441 W Cam3Channel: 934, getStream: channel has no valied stream(type is 7)
+03-27 20:23:40.820   905 12450 I FDV3    : [find, 710]: src:640x480 detect:224 face_num=0 0.67 ms
+03-27 20:23:40.822   905 12441 I Cam3Setting: 6634, translateLocalToFwMetadata: calib_status_value:0
+03-27 20:23:40.822   905 12441 E Cam3Channel: 1588, getMetadata: AE or AF callback error, give default metadata 0xe040cdb0
+03-27 20:23:40.823   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.823   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.823   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.823 24402 24614 D BLASTBufferQueue: [VRI[app]#1113](f:0,a:3) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:7, lapfnr:7
+03-27 20:23:40.823 24402 24614 D mali_gralloc: unregister: id=38e0001187c, handle=0xb400007e6c14dc50, base=0x0, importpid=24402, count:0
+03-27 20:23:40.824 24402 24614 D BLASTBufferQueue: [VRI[app]#1113](f:0,a:2) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:7, lapfnr:7
+03-27 20:23:40.824 24402 24614 D mali_gralloc: unregister: id=38e0001187e, handle=0xb400007e6c12db50, base=0x0, importpid=24402, count:0
+03-27 20:23:40.826 24402 24614 D mali_gralloc: unregister: id=38e0001187f, handle=0xb400007e6c0eeeb0, base=0x0, importpid=24402, count:0
+03-27 20:23:40.828   905  1312 E Cam3OEMIf: 12560, queueBuffer: mFtEnable 0
+03-27 20:23:40.830 11691 11746 D mali_gralloc: unregister: id=38e00011877, handle=0xb400007e6bf78150, base=0x0, importpid=11691, count:0
+03-27 20:23:40.832 32238   406 D mali_gralloc: unregister: id=38e00011878, handle=0xb400007e6bf9d7d0, base=0x0, importpid=32238, count:0
+03-27 20:23:40.832 32238   406 D mali_gralloc: unregister: id=38e0001187a, handle=0xb400007e6bf91ad0, base=0x0, importpid=32238, count:0
+03-27 20:23:40.833   942  1001 D mali_gralloc: unregister: id=38e00011878, handle=0xb400007bafd26cd0, base=0x0, importpid=942, count:0
+03-27 20:23:40.833 11691 11746 D mali_gralloc: unregister: id=38e00011875, handle=0xb400007e6bf7bf30, base=0x0, importpid=11691, count:0
+03-27 20:23:40.836 11691 11746 D mali_gralloc: unregister: id=38e00011874, handle=0xb400007e6bfcc1b0, base=0x0, importpid=11691, count:0
+03-27 20:23:40.841 32238 32238 D mali_gralloc: unregister: id=38e00011876, handle=0xb400007e6bf907b0, base=0x0, importpid=32238, count:0
+03-27 20:23:40.842 32238 32238 D mali_gralloc: unregister: id=38e00011879, handle=0xb400007e6bfa2210, base=0x0, importpid=32238, count:0
+03-27 20:23:40.842   942  1001 D mali_gralloc: unregister: id=38e0001187a, handle=0xb400007bafd2f4f0, base=0x0, importpid=942, count:0
+03-27 20:23:40.845 11691 11691 D mali_gralloc: unregister: id=38e00011873, handle=0xb400007e6bfa8bd0, base=0x0, importpid=11691, count:0
+03-27 20:23:40.845 11663 11714 W SurfaceComposerClient: Sync transaction timed out waiting for commit callback.
+03-27 20:23:40.845   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.845   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.845   942   942 I Layer   : fillInputInfo layer:com.android.launcher3/com.android.searchlauncher.SearchLauncher#28598, visible=0 (hasInputInfo:1, isHidden:1, alpha:1.000000, parent:19faf04 com.android.launcher3/com.android.searchlauncher.SearchLauncher#15343,parenthidden:1, parentalpha:1.000000, mBuffer:1, mSidebandStream:0,hasSomethingToDraw:1, hasEffect:0, fillsColor:0, drawShadows:0, hasBlur:0)
+03-27 20:23:40.845   942   942 I Layer   : fillInputInfo layer:b6305f1 ActivityRecordInputSink com.android.launcher3/com.android.searchlauncher.SearchLauncher#181, visible=0 (hasInputInfo:1, isHidden:1, alpha:1.000000, parent:ActivityRecord{e5f25d6 u0 com.android.launcher3/com.android.searchlauncher.SearchLauncher#170,parenthidden:1, parentalpha:1.000000, mBuffer:0, mSidebandStream:0,hasSomethingToDraw:0, hasEffect:0, fillsColor:0, drawShadows:0, hasBlur:0)
+03-27 20:23:40.845   942   942 I Layer   : fillInputInfo layer:Wallpaper BBQ wrapper#11766, visible=0 (hasInputInfo:1, isHidden:1, alpha:1.000000, parent:com.android.systemui.wallpapers.ImageWallpaper#11765,parenthidden:1, parentalpha:1.000000, mBuffer:1, mSidebandStream:0,hasSomethingToDraw:1, hasEffect:0, fillsColor:0, drawShadows:0, hasBlur:0)
+03-27 20:23:40.845   942   942 I Layer   : fillInputInfo layer:com.android.systemui.wallpapers.ImageWallpaper#11765, visible=0 (hasInputInfo:1, isHidden:1, alpha:1.000000, parent:40061be com.android.systemui.wallpapers.ImageWallpaper#11764,parenthidden:0, parentalpha:1.000000, mBuffer:0, mSidebandStream:0,hasSomethingToDraw:0, hasEffect:0, fillsColor:0, drawShadows:0, hasBlur:0)
+03-27 20:23:40.846   942   942 D mali_gralloc: unregister: id=38e0001187c, handle=0xb400007bafd36f90, base=0x0, importpid=942, count:0
+03-27 20:23:40.846  1331  3480 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 c2300c9 Splash Screen com.smartfit.app fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 28bb50b com.android.launcher3/com.andr
+03-27 20:23:40.846   942   942 D mali_gralloc: unregister: id=38e0001187f, handle=0xb400007bafd2a870, base=0x0, importpid=942, count:0
+03-27 20:23:40.847   942  1001 D mali_gralloc: unregister: id=38e00011879, handle=0xb400007bafd31470, base=0x0, importpid=942, count:0
+03-27 20:23:40.847  1331  3480 D InputDispatcher: Window went away: c2300c9 Splash Screen com.smartfit.app
+03-27 20:23:40.847   911  1023 D mali_gralloc: register: id=38e0001187e, handle=0xb4000071bb4b4b30, importpid=942, gRegisteredHandles=37
+03-27 20:23:40.847   911  1023 D mali_gralloc: unregister: id=38e0001187e, handle=0xb4000071bb4b7cb0, base=0x0, importpid=911, count:1
+03-27 20:23:40.848   905 12421 I sprd_hdr_adapter: L 200, sprd_hdr_adpt_detect: detect current hdr type: 2, detect_in_param: 0xdb33cbe0, detect_out_param: 0xdb33cd40
+03-27 20:23:40.848   905 12422 I isp_blk_cmc10: 268, _pm_cmc10_set_param: cmc_result: (2437 14875 95; 16086 1352 16353; 146 15156 2104).
+03-27 20:23:40.848 32238 32238 D UNISOC-LAUNCHER3: StateManager, goToState from_state = Normal, to_state =Normal, animated? false, listener=null, callers = com.android.launcher3.statemanager.StateManager.goToState:154 com.android.launcher3.statemanager.StateManager.moveToRestState:419 com.android.launcher3.statemanager.StateManager.moveToRestState:410 com.android.launcher3.statemanager.StatefulActivity.onStop:152 com.android.launcher3.Launcher.onStop:1150 android.app.Instrumentation.callActivityOnStop:1623
+03-27 20:23:40.849   905 12422 E isp_alg_fw: 3931, ispalg_gtm_process: hist_total is 0, gtm no process !!!
+03-27 20:23:40.849   905 12437 E awb_adpt: 1469, awb_sprd_ctrl_calculation_v3_2: check handle success
+03-27 20:23:40.849   905 12421 E Libae[FAE]: 1926, face_luma_calc: NO FACE
+03-27 20:23:40.849   905 12421 W Libae[ABL]: 585,abl_bv_interpolation:tune param num should bigger than 1
+03-27 20:23:40.850   905 12421 I cmr_oem : 10954, camera_get_af_support: af_support 0
+03-27 20:23:40.855 11691 11691 I btyz    : onStop
+03-27 20:23:40.856 32238 32434 I ImeTracker: com.android.launcher3:5016c683: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT
+03-27 20:23:40.856 32238 32434 I ImeTracker: com.android.launcher3:5016c683: onFailed at PHASE_CLIENT_VIEW_SERVED
+03-27 20:23:40.861   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.861   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.861 17156  7959 I NearbyMediums: No BLE Fast/GATT advertisements found in the latest cycle.
+03-27 20:23:40.861 17156  7959 I NearbyMediums: Current Tracked Scanning Clients are : {NearbyConnections.EnvironmentMonitor, NearbySharing}
+03-27 20:23:40.863  1331  4265 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 c2300c9 Splash Screen com.smartfit.app fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 28bb50b com.android.launcher3/com.andr
+03-27 20:23:40.870   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.871   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.871   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.871   905 12441 W Cam3Channel: 934, getStream: channel has no valied stream(type is 7)
+03-27 20:23:40.871   905 12450 I FDV3    : [find, 710]: src:640x480 detect:224 face_num=0 1.05 ms
+03-27 20:23:40.872   905 12441 I Cam3Setting: 6634, translateLocalToFwMetadata: calib_status_value:0
+03-27 20:23:40.873   905 12441 E Cam3Channel: 1588, getMetadata: AE or AF callback error, give default metadata 0xe0411ff0
+03-27 20:23:40.874   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.874   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.874   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.877   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.877   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.878   905  1312 E Cam3OEMIf: 12560, queueBuffer: mFtEnable 0
+03-27 20:23:40.878  1331  1878 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 c2300c9 Splash Screen com.smartfit.app fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 b6305f1 ActivityRecordInputSink com.an
+03-27 20:23:40.878  1331  1878 D InputDispatcher: Window went away: 28bb50b com.android.launcher3/com.android.searchlauncher.SearchLauncher
+03-27 20:23:40.878  1331  1878 D InputDispatcher: Window went away: 19faf04 com.android.launcher3/com.android.searchlauncher.SearchLauncher
+03-27 20:23:40.885 24402 24614 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39877, lapfnr:39877
+03-27 20:23:40.885 24402 24614 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39877, lapfnr:39877
+03-27 20:23:40.893   942  1001 D mali_gralloc: unregister: id=38e00011873, handle=0xb400007bafd329d0, base=0x0, importpid=942, count:0
+03-27 20:23:40.894   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.894   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.895   942  1001 D mali_gralloc: unregister: id=38e00011876, handle=0xb400007bafd38970, base=0x0, importpid=942, count:0
+03-27 20:23:40.896  1331  4265 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 c2300c9 Splash Screen com.smartfit.app fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 b6305f1 ActivityRecordInputSink com.an
+03-27 20:23:40.899   905 12422 I isp_blk_cmc10: 268, _pm_cmc10_set_param: cmc_result: (2437 14875 95; 16086 1352 16353; 146 15156 2104).
+03-27 20:23:40.899   905 12437 E awb_adpt: 1469, awb_sprd_ctrl_calculation_v3_2: check handle success
+03-27 20:23:40.899   905 12422 E isp_alg_fw: 3931, ispalg_gtm_process: hist_total is 0, gtm no process !!!
+03-27 20:23:40.899   905 12421 I sprd_hdr_adapter: L 200, sprd_hdr_adpt_detect: detect current hdr type: 2, detect_in_param: 0xdb33cbe0, detect_out_param: 0xdb33cd40
+03-27 20:23:40.900   905 12421 E Libae[FAE]: 1926, face_luma_calc: NO FACE
+03-27 20:23:40.900   905 12421 W Libae[ABL]: 585,abl_bv_interpolation:tune param num should bigger than 1
+03-27 20:23:40.901   905 12421 I cmr_oem : 10954, camera_get_af_support: af_support 0
+03-27 20:23:40.901   928   928 D PowerHAL: enter power::setMode
+03-27 20:23:40.901   928   928 D PowerHAL: PowerSessionManager::updateHintMode: mode: LAUNCH, enabled: 1
+03-27 20:23:40.901   928   928 D PowerHAL: PowerSessionManager::updateHintMode resValue = 0
+03-27 20:23:40.902   928   928 D PowerHAL: ###Enter launch scene bgn###
+03-27 20:23:40.902   928   928 D PowerHAL: Enter common_set: enable:1, duration: 0, /sys/devices/system/cpu/cpufreq/policy0/scaling_min_freq: 1820000
+03-27 20:23:40.902   928   928 D PowerHAL: Enter set_cluster_freqs_max_min:
+03-27 20:23:40.902   928   928 D PowerHAL: Enter common_set: enable:1, duration: 0, /sys/devices/system/cpu/cpufreq/policy0/scaling_max_freq: 1820000
+03-27 20:23:40.902   928   928 D PowerHAL: Enter set_cluster_freqs_max_min:
+03-27 20:23:40.902   928   928 D PowerHAL: Enter common_set: enable:1, duration: 0, /sys/devices/system/cpu/cpufreq/policy6/scaling_min_freq: 2028000
+03-27 20:23:40.902   928   928 D PowerHAL: Enter set_cluster_freqs_max_min:
+03-27 20:23:40.902   928   928 D PowerHAL: Enter common_set: enable:1, duration: 0, /sys/devices/system/cpu/cpufreq/policy6/scaling_max_freq: 2028000
+03-27 20:23:40.902   928   928 D PowerHAL: Enter set_cluster_freqs_max_min:
+03-27 20:23:40.902   928   928 D PowerHAL: Enter devfreq_ddr_set: enable:1, duration: 0, /sys/class/devfreq/scene-frequency/sprd-governor/scene_boost_dfs: max
+03-27 20:23:40.902   928   928 D PowerHAL: ###Enter launch scene end###
+03-27 20:23:40.905 24402 24614 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39878, lapfnr:39878
+03-27 20:23:40.905 24402 24614 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39878, lapfnr:39878
+03-27 20:23:40.909 24402 24402 D NotificationShadeWindowController: isKeyguardShowingAndNotOccluded= false keyguardFadingAway=false keygaurdTransparent=false
+03-27 20:23:40.910 11663 11663 D LifecycleMonitor: Lifecycle status change: com.smartfit.app.MainActivity@bfe00f2 in: PAUSED
+03-27 20:23:40.910   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.911   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.911 11663 11663 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.smartfit.app.MainActivity@bfe00f2
+03-27 20:23:40.913  1331  4265 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 c2300c9 Splash Screen com.smartfit.app fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 b6305f1 ActivityRecordInputSink com.an
+03-27 20:23:40.917  1331  1878 D InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{6fb88db u0 com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity t2424 d0}
+03-27 20:23:40.917  1331  1878 D InputDispatcher: Resetting ANR timeouts.
+03-27 20:23:40.921 24402 25225 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39879, lapfnr:39879
+03-27 20:23:40.921 24402 25225 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39879, lapfnr:39879
+03-27 20:23:40.921   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.921   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.921   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.922   905 12450 I FDV3    : [find, 710]: src:640x480 detect:224 face_num=0 0.77 ms
+03-27 20:23:40.922   905 12441 W Cam3Channel: 934, getStream: channel has no valied stream(type is 7)
+03-27 20:23:40.924   905 12441 I Cam3Setting: 6634, translateLocalToFwMetadata: calib_status_value:0
+03-27 20:23:40.924   905 12441 E Cam3Channel: 1588, getMetadata: AE or AF callback error, give default metadata 0xe040cdb0
+03-27 20:23:40.926   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.926   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.926   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.927   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.927   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.931  1331  3672 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 c2300c9 Splash Screen com.smartfit.app fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 b6305f1 ActivityRecordInputSink com.an
+03-27 20:23:40.933   905  1312 E Cam3OEMIf: 12560, queueBuffer: mFtEnable 0
+03-27 20:23:40.937 24402 27709 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39880, lapfnr:39880
+03-27 20:23:40.937 24402 27709 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39880, lapfnr:39880
+03-27 20:23:40.940 24402 24487 D InputEventReceiver: android_view_InputEventReceiver debug log is enabled
+03-27 20:23:40.940 24402 24487 D InputEventReceiver: channel '57da68d Splash Screen com.smartfit.app.test (client)' ~ Initializing input event receiver.
+03-27 20:23:40.943   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.943   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.946  1331  1465 D InputDispatcher: dispatchEventToCurrentInputTargets
+03-27 20:23:40.946  1331  1465 D InputDispatcher: channel 'fd50001 com.smartfit.app/com.smartfit.app.MainActivity (server)' ~ prepareDispatchCycle - flags=DISPATCH_AS_IS, globalScaleFactor=1.000000, pointerIds=00000000000000000000000000000000
+03-27 20:23:40.946  1331  1465 D InputDispatcher:         default (ROT_0) (IDENTITY)
+03-27 20:23:40.946  1331  1465 D InputDispatcher: channel 'fd50001 com.smartfit.app/com.smartfit.app.MainActivity (server)' ~ startDispatchCycle
+03-27 20:23:40.946 11663 11663 D InputEventReceiver: channel 'fd50001 com.smartfit.app/com.smartfit.app.MainActivity (client)' ~ Consuming input events, consumeBatches=false, frameTime=-1
+03-27 20:23:40.947 11663 11663 D InputEventReceiver: channel 'fd50001 com.smartfit.app/com.smartfit.app.MainActivity (client)' ~ Received focus event: hasFocus=false.
+03-27 20:23:40.947 11663 11663 D InputEventReceiver: channel 'fd50001 com.smartfit.app/com.smartfit.app.MainActivity (client)' ~ Finished input event.
+03-27 20:23:40.947  1331  3480 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 c2300c9 Splash Screen com.smartfit.app fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 b6305f1 ActivityRecordInputSink com.an
+03-27 20:23:40.947  1331  3480 D InputDispatcher: Window went away: fd50001 com.smartfit.app/com.smartfit.app.MainActivity
+03-27 20:23:40.948   905 12437 E awb_adpt: 1469, awb_sprd_ctrl_calculation_v3_2: check handle success
+03-27 20:23:40.948  1331  1465 D InputDispatcher: channel 'fd50001 com.smartfit.app/com.smartfit.app.MainActivity (server)' ~ finishDispatchCycle - seq=588130, handled=true
+03-27 20:23:40.948  1331  1465 D InputDispatcher: channel 'fd50001 com.smartfit.app/com.smartfit.app.MainActivity (server)' ~ startDispatchCycle
+03-27 20:23:40.948   905 12422 I isp_blk_cmc10: 268, _pm_cmc10_set_param: cmc_result: (2437 14875 95; 16086 1352 16353; 146 15156 2104).
+03-27 20:23:40.949   905 12422 E isp_alg_fw: 3931, ispalg_gtm_process: hist_total is 0, gtm no process !!!
+03-27 20:23:40.949   905 12421 I sprd_hdr_adapter: L 200, sprd_hdr_adpt_detect: detect current hdr type: 2, detect_in_param: 0xdb33cbe0, detect_out_param: 0xdb33cd40
+03-27 20:23:40.952   905 12421 E Libae[FAE]: 1926, face_luma_calc: NO FACE
+03-27 20:23:40.952   905 12421 W Libae[ABL]: 585,abl_bv_interpolation:tune param num should bigger than 1
+03-27 20:23:40.952   905 12421 I cmr_oem : 10954, camera_get_af_support: af_support 0
+03-27 20:23:40.953 24402 24614 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39881, lapfnr:39881
+03-27 20:23:40.954 24402 24614 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39881, lapfnr:39881
+03-27 20:23:40.956   910  1004 I mali_gralloc: allocate: id=38e00011884, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[test]#1114(BLAST Consumer)1114
+03-27 20:23:40.956 24402 12523 D mali_gralloc: register: id=38e00011884, handle=0xb400007e6c0eeeb0, importpid=-1, gRegisteredHandles=62
+03-27 20:23:40.958   910  1004 I mali_gralloc: allocate: id=38e00011885, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[test]#1114(BLAST Consumer)1114
+03-27 20:23:40.959 24402 12523 D mali_gralloc: register: id=38e00011885, handle=0xb400007e6c0a6370, importpid=-1, gRegisteredHandles=63
+03-27 20:23:40.960   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.960   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.961   910  1004 I mali_gralloc: allocate: id=38e00011886, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[test]#1114(BLAST Consumer)1114
+03-27 20:23:40.961   942   995 D mali_gralloc: register: id=38e00011884, handle=0xb400007bafd1ac70, importpid=24402, gRegisteredHandles=37
+03-27 20:23:40.961  1331  1878 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 c2300c9 Splash Screen com.smartfit.app fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 b6305f1 ActivityRecordInputSink com.an
+03-27 20:23:40.962 24402 12523 D mali_gralloc: register: id=38e00011886, handle=0xb400007e6c15b570, importpid=-1, gRegisteredHandles=64
+03-27 20:23:40.963   910  1004 I mali_gralloc: allocate: id=38e00011887, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[test]#1114(BLAST Consumer)1114
+03-27 20:23:40.964 24402 12523 D mali_gralloc: register: id=38e00011887, handle=0xb400007e6c0d5410, importpid=-1, gRegisteredHandles=65
+03-27 20:23:40.970   928   928 D PowerHAL: Enter getSceneIdByName: sceneName:com.smartfit.app.test
+03-27 20:23:40.970   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.971   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.971   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.971   928   928 D PowerHAL: Enter getSceneIdByName: sceneName:PACKAGE
+03-27 20:23:40.971 24402 24614 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39882, lapfnr:39882
+03-27 20:23:40.971   905 12441 W Cam3Channel: 934, getStream: channel has no valied stream(type is 7)
+03-27 20:23:40.971 24402 24614 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39882, lapfnr:39882
+03-27 20:23:40.971   905 12450 I FDV3    : [find, 710]: src:640x480 detect:224 face_num=0 1.10 ms
+03-27 20:23:40.972   910  1004 I mali_gralloc: allocate: id=38e00011888, hal_format=RGBA8888, mali_format=RGBA8888, afbc=false, usage=CPU_RW|GPU_RW|HWC, size=576x1280(2949120), stride=576, name=screenshot
+03-27 20:23:40.972   942   995 D mali_gralloc: register: id=38e00011888, handle=0xb400007bafd27a50, importpid=-1, gRegisteredHandles=38
+03-27 20:23:40.973   905 12441 I Cam3Setting: 6634, translateLocalToFwMetadata: calib_status_value:0
+03-27 20:23:40.973   905 12441 E Cam3Channel: 1588, getMetadata: AE or AF callback error, give default metadata 0xe04014a0
+03-27 20:23:40.974   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:40.975   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:40.975   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:40.976   942   942 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+03-27 20:23:40.977   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.977   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.978   905 28962 E Cam3OEMIf: 12560, queueBuffer: mFtEnable 0
+03-27 20:23:40.979  1331  3660 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 57da68d Splash Screen com.smartfit.app.test c2300c9 Splash Screen com.smartfit.app fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#
+03-27 20:23:40.980  1331  4265 D mali_gralloc: register: id=38e00011888, handle=0xb400007e6c0236f0, importpid=942, gRegisteredHandles=15
+03-27 20:23:40.982 24402 27083 D mali_gralloc: register: id=38e00011888, handle=0xb400007e6c107cf0, importpid=1331, gRegisteredHandles=66
+03-27 20:23:40.982 24402 27083 D mali_gralloc: unregister: id=38e00011888, handle=0xb400007e6c107cf0, base=0x0, importpid=24402, count:0
+03-27 20:23:40.982 32238 30506 D mali_gralloc: register: id=38e00011888, handle=0xb400007e6bfcb0d0, importpid=1331, gRegisteredHandles=61
+03-27 20:23:40.982 24402 25225 D mali_gralloc: register: id=38e00011888, handle=0xb400007e6c0f8b10, importpid=1331, gRegisteredHandles=66
+03-27 20:23:40.982 24402 24614 D mali_gralloc: register: id=38e00011888, handle=0xb400007e6c0b0e70, importpid=1331, gRegisteredHandles=66
+03-27 20:23:40.983 24402 24402 D mali_gralloc: unregister: id=38e00011888, handle=0xb400007e6c0b0e70, base=0x0, importpid=24402, count:1
+03-27 20:23:40.984 24402 24435 D TaskStackListenerImpl: onTaskSnapshotChanged close hardwarebuffer, snapshot = TaskSnapshot{ mId=1774622320970 mCaptureTime=448974948594467 mTopActivityComponent=com.smartfit.app/.MainActivity mSnapshot=android.hardware.HardwareBuffer@1ce645d (576x1280) mColorSpace=sRGB IEC61966-2.1 (id=0, model=RGB) mOrientation=1 mRotation=0 mTaskSize=Point(720, 1600) mContentInsets=[0,52][0,84] mLetterboxInsets=[0,0][0,0] mIsLowResolution=false mIsRealSnapshot=true mWindowingMode=1 mAppearance=0 mIsTranslucent=false mHasImeSurface=false
+03-27 20:23:40.984 24402 24435 D mali_gralloc: unregister: id=38e00011888, handle=0xb400007e6c0f8b10, base=0x0, importpid=24402, count:0
+03-27 20:23:40.986 24402 27709 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39883, lapfnr:39883
+03-27 20:23:40.987 24402 27709 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39883, lapfnr:39883
+03-27 20:23:40.988   942  1202 D mali_gralloc: unregister: id=38e00011888, handle=0xb400007bafd27a50, base=0x0, importpid=942, count:0
+03-27 20:23:40.993   942   942 I Layer   : fillInputInfo layer:Splash Screen com.smartfit.app.test#28627, visible=1 (hasInputInfo:1, isHidden:0, alpha:1.000000, parent:57da68d Splash Screen com.smartfit.app.test#28626,parenthidden:0, parentalpha:1.000000, mBuffer:1, mSidebandStream:0,hasSomethingToDraw:1, hasEffect:0, fillsColor:0, drawShadows:0, hasBlur:0)
+03-27 20:23:40.993   942   942 I Layer   : fillInputInfo layer:498adea ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#28630, visible=1 (hasInputInfo:1, isHidden:0, alpha:1.000000, parent:ActivityRecord{6fb88db u0 com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#28624,parenthidden:0, parentalpha:1.000000, mBuffer:0, mSidebandStream:0,hasSomethingToDraw:0, hasEffect:0, fillsColor:0, drawShadows:0, hasBlur:0)
+03-27 20:23:40.993   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.993   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:40.994   942   942 I Layer   : fillInputInfo layer:animation-background#28631, visible=1 (hasInputInfo:1, isHidden:0, alpha:1.000000, parent:DefaultTaskDisplayArea#11733,parenthidden:0, parentalpha:1.000000, mBuffer:0, mSidebandStream:0,hasSomethingToDraw:1, hasEffect:1, fillsColor:1, drawShadows:0, hasBlur:0)
+03-27 20:23:40.994   911  1023 D mali_gralloc: unregister: id=38e0001187c, handle=0xb4000071bb4b6cf0, base=0x0, importpid=911, count:0
+03-27 20:23:40.996   911  1023 D mali_gralloc: unregister: id=38e0001187f, handle=0xb4000071bb4a70f0, base=0x0, importpid=911, count:0
+03-27 20:23:40.997   911  1023 D mali_gralloc: unregister: id=38e0001187e, handle=0xb4000071bb4b4b30, base=0x0, importpid=911, count:0
+03-27 20:23:40.997  1331  4265 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 57da68d Splash Screen com.smartfit.app.test 498adea ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRec
+03-27 20:23:40.997   911  1023 D mali_gralloc: unregister: id=38e0001187d, handle=0xb4000071bb4ba770, base=0x0, importpid=911, count:0
+03-27 20:23:40.998  1331  4265 D InputDispatcher: Window went away: c2300c9 Splash Screen com.smartfit.app
+03-27 20:23:40.999   905 12437 E awb_adpt: 1469, awb_sprd_ctrl_calculation_v3_2: check handle success
+03-27 20:23:40.999   905 12421 I sprd_hdr_adapter: L 200, sprd_hdr_adpt_detect: detect current hdr type: 2, detect_in_param: 0xdb33cbe0, detect_out_param: 0xdb33cd40
+03-27 20:23:40.999   905 12422 I isp_blk_cmc10: 268, _pm_cmc10_set_param: cmc_result: (2437 14875 95; 16086 1352 16353; 146 15156 2104).
+03-27 20:23:40.999   905 12422 E isp_alg_fw: 3931, ispalg_gtm_process: hist_total is 0, gtm no process !!!
+03-27 20:23:41.000   905 12421 E Libae[FAE]: 1926, face_luma_calc: NO FACE
+03-27 20:23:41.000   905 12421 W Libae[ABL]: 585,abl_bv_interpolation:tune param num should bigger than 1
+03-27 20:23:41.000   905 12421 I cmr_oem : 10954, camera_get_af_support: af_support 0
+03-27 20:23:41.003 12011 12011 D InputEventReceiver: android_view_InputEventReceiver debug log is enabled
+03-27 20:23:41.004 12011 12011 D InputEventReceiver: channel 'ee762c0 com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' ~ Initializing input event receiver.
+03-27 20:23:41.007 24402 24614 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39884, lapfnr:39884
+03-27 20:23:41.007 24402 24614 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39884, lapfnr:39884
+03-27 20:23:41.010   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.010   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.011  1331  3672 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 57da68d Splash Screen com.smartfit.app.test 498adea ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRec
+03-27 20:23:41.019 24402 25225 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39885, lapfnr:39885
+03-27 20:23:41.019 24402 25225 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39885, lapfnr:39885
+03-27 20:23:41.022   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:41.022   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:41.022   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:41.022   905 12441 W Cam3Channel: 934, getStream: channel has no valied stream(type is 7)
+03-27 20:23:41.022   905 12450 I FDV3    : [find, 710]: src:640x480 detect:224 face_num=0 0.69 ms
+03-27 20:23:41.024   905 12441 I Cam3Setting: 6634, translateLocalToFwMetadata: calib_status_value:0
+03-27 20:23:41.024   905 12441 E Cam3Channel: 1588, getMetadata: AE or AF callback error, give default metadata 0xe040a490
+03-27 20:23:41.026   910  1004 I mali_gralloc: allocate: id=38e00011889, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[InstrumentationActivityInvoker$EmptyActivity]#5(BLAST Consumer)5
+03-27 20:23:41.026   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:41.026   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:41.026   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:41.027 24402 25225 D FaceUnlock: onTaskStackChangedBackground
+03-27 20:23:41.027   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.027   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.027 12011 12524 D mali_gralloc: register: id=38e00011889, handle=0xb400007e6bf86c70, importpid=-1, gRegisteredHandles=0
+03-27 20:23:41.028   910  1004 I mali_gralloc: allocate: id=38e0001188a, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[InstrumentationActivityInvoker$EmptyActivity]#5(BLAST Consumer)5
+03-27 20:23:41.028   911  1023 D SPRDHWComposer: HWC Range:1, HWC_Transfer:4
+03-27 20:23:41.029 12011 12524 D mali_gralloc: register: id=38e0001188a, handle=0xb400007e6bf85830, importpid=-1, gRegisteredHandles=1
+03-27 20:23:41.029  1331  1878 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 57da68d Splash Screen com.smartfit.app.test 498adea ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRec
+03-27 20:23:41.029   942  1001 D mali_gralloc: unregister: id=38e0001187e, handle=0xb400007bafd1da90, base=0x0, importpid=942, count:0
+03-27 20:23:41.032 24402 25225 D FaceUnlock: PackageName =com.smartfit.app.test
+03-27 20:23:41.032   910  1004 I mali_gralloc: allocate: id=38e0001188b, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[InstrumentationActivityInvoker$EmptyActivity]#5(BLAST Consumer)5
+03-27 20:23:41.033 12011 12524 D mali_gralloc: register: id=38e0001188b, handle=0xb400007e6bf88ad0, importpid=-1, gRegisteredHandles=2
+03-27 20:23:41.034   910  1004 I mali_gralloc: allocate: id=38e0001188c, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[InstrumentationActivityInvoker$EmptyActivity]#5(BLAST Consumer)5
+03-27 20:23:41.035 12011 12524 D mali_gralloc: register: id=38e0001188c, handle=0xb400007e6bf892b0, importpid=-1, gRegisteredHandles=3
+03-27 20:23:41.039 24402 27083 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39886, lapfnr:39886
+03-27 20:23:41.039   942  1386 D mali_gralloc: register: id=38e0001188b, handle=0xb400007bafd1da90, importpid=12011, gRegisteredHandles=37
+03-27 20:23:41.041 24402 27083 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39886, lapfnr:39886
+03-27 20:23:41.041 24402 27083 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82712, lapfnr:82712
+03-27 20:23:41.041  1331  3480 D InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{e5f25d6 u0 com.android.launcher3/com.android.searchlauncher.SearchLauncher t1854 d0}
+03-27 20:23:41.041  1331  3480 D InputDispatcher: Resetting ANR timeouts.
+03-27 20:23:41.042 24402 27083 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82712, lapfnr:82712
+03-27 20:23:41.043   905 29043 E Cam3OEMIf: 12560, queueBuffer: mFtEnable 0
+03-27 20:23:41.043   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.043   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.045  1331  3672 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 57da68d Splash Screen com.smartfit.app.test ee762c0 com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 498adea ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org
+03-27 20:23:41.049   905 12437 E awb_adpt: 1469, awb_sprd_ctrl_calculation_v3_2: check handle success
+03-27 20:23:41.049   905 12421 I sprd_hdr_adapter: L 200, sprd_hdr_adpt_detect: detect current hdr type: 2, detect_in_param: 0xdb33cbe0, detect_out_param: 0xdb33cd40
+03-27 20:23:41.050   905 12422 I isp_blk_cmc10: 268, _pm_cmc10_set_param: cmc_result: (2437 14875 95; 16086 1352 16353; 146 15156 2104).
+03-27 20:23:41.050   905 12422 E isp_alg_fw: 3931, ispalg_gtm_process: hist_total is 0, gtm no process !!!
+03-27 20:23:41.052   905 12421 E Libae[FAE]: 1926, face_luma_calc: NO FACE
+03-27 20:23:41.052   905 12421 W Libae[ABL]: 585,abl_bv_interpolation:tune param num should bigger than 1
+03-27 20:23:41.052   905 12421 I cmr_oem : 10954, camera_get_af_support: af_support 0
+03-27 20:23:41.053 24402 27087 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82713, lapfnr:82713
+03-27 20:23:41.053 24402 27087 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82713, lapfnr:82713
+03-27 20:23:41.053 24402 27087 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39887, lapfnr:39887
+03-27 20:23:41.053 24402 27087 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39887, lapfnr:39887
+03-27 20:23:41.060   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.060   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.061  1331  1352 I ActivityTaskManager: Displayed com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity for user 0: +168ms
+03-27 20:23:41.061  1331  3480 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 57da68d Splash Screen com.smartfit.app.test ee762c0 com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 498adea ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org
+03-27 20:23:41.061  1331  3480 D InputDispatcher: Window went away: 57da68d Splash Screen com.smartfit.app.test
+03-27 20:23:41.061  1331  3480 D InputDispatcher: Window went away: ee762c0 com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+03-27 20:23:41.061   911  1023 D SPRDHWComposer: HWC Range:1, HWC_Transfer:4
+03-27 20:23:41.061   911  1023 D mali_gralloc: register: id=38e00011884, handle=0xb4000071bb4ba770, importpid=942, gRegisteredHandles=33
+03-27 20:23:41.072   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:41.072   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:41.072   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:41.072   905 12441 W Cam3Channel: 934, getStream: channel has no valied stream(type is 7)
+03-27 20:23:41.074 24402 28414 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82714, lapfnr:82714
+03-27 20:23:41.074   905 12450 I FDV3    : [find, 710]: src:640x480 detect:224 face_num=0 2.72 ms
+03-27 20:23:41.075 24402 28414 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82714, lapfnr:82714
+03-27 20:23:41.075 24402 28414 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39888, lapfnr:39888
+03-27 20:23:41.075 24402 28414 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39888, lapfnr:39888
+03-27 20:23:41.075   905 12441 I Cam3Setting: 6634, translateLocalToFwMetadata: calib_status_value:0
+03-27 20:23:41.075   905 12441 E Cam3Channel: 1588, getMetadata: AE or AF callback error, give default metadata 0xe0400010
+03-27 20:23:41.076   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.076   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.079   928   928 D PowerHAL: Enter getSceneIdByName: sceneName:com.android.launcher3
+03-27 20:23:41.080   928   928 D PowerHAL: Enter getSceneIdByName: sceneName:PACKAGE
+03-27 20:23:41.081  1331  1878 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 57da68d Splash Screen com.smartfit.app.test ee762c0 com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 498adea ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org
+03-27 20:23:41.082   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:41.082   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:41.082   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:41.086 24402 28414 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39889, lapfnr:39889
+03-27 20:23:41.087 24402 28414 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39889, lapfnr:39889
+03-27 20:23:41.087 24402 28414 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82715, lapfnr:82715
+03-27 20:23:41.087 24402 28414 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82715, lapfnr:82715
+03-27 20:23:41.087   905 28962 E Cam3OEMIf: 12560, queueBuffer: mFtEnable 0
+03-27 20:23:41.091   910  1004 I mali_gralloc: allocate: id=38e0001188d, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[SearchLauncher]#4(BLAST Consumer)4
+03-27 20:23:41.092 11691 12525 D mali_gralloc: register: id=38e0001188d, handle=0xb400007e6bfc6330, importpid=-1, gRegisteredHandles=1
+03-27 20:23:41.093   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.093   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.095   910  1004 I mali_gralloc: allocate: id=38e0001188e, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[SearchLauncher]#4(BLAST Consumer)4
+03-27 20:23:41.095  1331  3660 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 57da68d Splash Screen com.smartfit.app.test ee762c0 com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 498adea ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org
+03-27 20:23:41.096 11691 12525 D mali_gralloc: register: id=38e0001188e, handle=0xb400007e6bf7bf30, importpid=-1, gRegisteredHandles=2
+03-27 20:23:41.098   910  1004 I mali_gralloc: allocate: id=38e0001188f, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[SearchLauncher]#4(BLAST Consumer)4
+03-27 20:23:41.098   942   994 D mali_gralloc: register: id=38e0001188d, handle=0xb400007bafd19050, importpid=11691, gRegisteredHandles=38
+03-27 20:23:41.098 11691 12525 D mali_gralloc: register: id=38e0001188f, handle=0xb400007e6bf78a50, importpid=-1, gRegisteredHandles=3
+03-27 20:23:41.100 11691 11691 I btyz    : onStart
+03-27 20:23:41.103   905 12421 I sprd_hdr_adapter: L 200, sprd_hdr_adpt_detect: detect current hdr type: 2, detect_in_param: 0xdb33cbe0, detect_out_param: 0xdb33cd40
+03-27 20:23:41.105   905 12437 E awb_adpt: 1469, awb_sprd_ctrl_calculation_v3_2: check handle success
+03-27 20:23:41.105   905 12421 E Libae[FAE]: 1926, face_luma_calc: NO FACE
+03-27 20:23:41.105   905 12421 W Libae[ABL]: 585,abl_bv_interpolation:tune param num should bigger than 1
+03-27 20:23:41.105   905 12421 I cmr_oem : 10954, camera_get_af_support: af_support 0
+03-27 20:23:41.106   910  1004 I mali_gralloc: allocate: id=38e00011890, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[SearchLauncher]#4(BLAST Consumer)4
+03-27 20:23:41.106 11691 12525 D mali_gralloc: register: id=38e00011890, handle=0xb400007e6bf7c830, importpid=-1, gRegisteredHandles=4
+03-27 20:23:41.107 24402 27087 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39890, lapfnr:39890
+03-27 20:23:41.107 24402 27087 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39890, lapfnr:39890
+03-27 20:23:41.107 24402 27087 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82716, lapfnr:82716
+03-27 20:23:41.107 11691 11691 I brvv    : (REDACTED) [%s] onStart()
+03-27 20:23:41.107 24402 27087 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82716, lapfnr:82716
+03-27 20:23:41.107 11691 11691 I brya    : Reloading theme data
+03-27 20:23:41.107   905 12422 I isp_blk_cmc10: 268, _pm_cmc10_set_param: cmc_result: (2437 14875 95; 16086 1352 16353; 146 15156 2104).
+03-27 20:23:41.108   905 12422 E isp_alg_fw: 3931, ispalg_gtm_process: hist_total is 0, gtm no process !!!
+03-27 20:23:41.109   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.109   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.112  1331  3672 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 57da68d Splash Screen com.smartfit.app.test ee762c0 com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 498adea ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org
+03-27 20:23:41.113 11691 11691 I btyz    : onResume
+03-27 20:23:41.122 24402 28414 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39890, lapfnr:39890
+03-27 20:23:41.123 24402 28414 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:2) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39890, lapfnr:39890
+03-27 20:23:41.123 24402 28414 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82717, lapfnr:82717
+03-27 20:23:41.123 24402 28414 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82717, lapfnr:82717
+03-27 20:23:41.124   910  1004 I mali_gralloc: allocate: id=38e00011891, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[SearchLauncher]#203(BLAST Consumer)203
+03-27 20:23:41.124   905 12450 I FDV3    : [find, 710]: src:640x480 detect:224 face_num=0 1.18 ms
+03-27 20:23:41.124 32238 12526 D mali_gralloc: register: id=38e00011891, handle=0xb400007e6bfd91d0, importpid=-1, gRegisteredHandles=62
+03-27 20:23:41.126   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.126   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.127   910  1004 I mali_gralloc: allocate: id=38e00011892, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[SearchLauncher]#203(BLAST Consumer)203
+03-27 20:23:41.128 32238 12526 D mali_gralloc: register: id=38e00011892, handle=0xb400007e6bf89cd0, importpid=-1, gRegisteredHandles=63
+03-27 20:23:41.129   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:41.129   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:41.129   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:41.130   905 12441 W Cam3Channel: 934, getStream: channel has no valied stream(type is 7)
+03-27 20:23:41.131  1331  3672 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 57da68d Splash Screen com.smartfit.app.test ee762c0 com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 498adea ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org
+03-27 20:23:41.133   905 12441 I Cam3Setting: 6634, translateLocalToFwMetadata: calib_status_value:0
+03-27 20:23:41.133   905 12441 E Cam3Channel: 1588, getMetadata: AE or AF callback error, give default metadata 0xe0411ff0
+03-27 20:23:41.134   942  1386 D mali_gralloc: register: id=38e00011891, handle=0xb400007bafd2d0f0, importpid=32238, gRegisteredHandles=39
+03-27 20:23:41.135   910  1004 I mali_gralloc: allocate: id=38e00011893, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[SearchLauncher]#203(BLAST Consumer)203
+03-27 20:23:41.135   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:41.135   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:41.135   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:41.135 32238 12526 D mali_gralloc: register: id=38e00011893, handle=0xb400007e6bf9d7d0, importpid=-1, gRegisteredHandles=64
+03-27 20:23:41.137 24402 27087 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39891, lapfnr:39891
+03-27 20:23:41.137 24402 27087 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:2) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39891, lapfnr:39891
+03-27 20:23:41.138   910  1004 I mali_gralloc: allocate: id=38e00011894, hal_format=RGBA8888, mali_format=RGBA8888, afbc=SPLIT, usage=GPU_RW|HWC, size=720x1600(4680704), stride=720, name=VRI[SearchLauncher]#203(BLAST Consumer)203
+03-27 20:23:41.139   928   928 D PowerHAL: enter power::setMode
+03-27 20:23:41.139   928   928 D PowerHAL: PowerSessionManager::updateHintMode: mode: LAUNCH, enabled: 0
+03-27 20:23:41.139   928   928 D PowerHAL: PowerSessionManager::updateHintMode resValue = 0
+03-27 20:23:41.139   928   928 D PowerHAL: ###Exit launch scene bgn###
+03-27 20:23:41.139   928   928 D PowerHAL: Enter common_set: enable:0, duration: 0, /sys/devices/system/cpu/cpufreq/policy0/scaling_min_freq: 1820000
+03-27 20:23:41.139   928   928 D PowerHAL: Enter set_cluster_freqs_max_min:
+03-27 20:23:41.139   928   928 D PowerHAL: Enter common_set: enable:0, duration: 0, /sys/devices/system/cpu/cpufreq/policy0/scaling_max_freq: 1820000
+03-27 20:23:41.139   928   928 D PowerHAL: Enter set_cluster_freqs_max_min:
+03-27 20:23:41.139   928   928 D PowerHAL: Enter common_set: enable:0, duration: 0, /sys/devices/system/cpu/cpufreq/policy6/scaling_min_freq: 2028000
+03-27 20:23:41.139   928   928 D PowerHAL: Enter set_cluster_freqs_max_min:
+03-27 20:23:41.139   928   928 D PowerHAL: Enter common_set: enable:0, duration: 0, /sys/devices/system/cpu/cpufreq/policy6/scaling_max_freq: 2028000
+03-27 20:23:41.139   928   928 D PowerHAL: Enter set_cluster_freqs_max_min:
+03-27 20:23:41.139   928   928 D PowerHAL: Enter devfreq_ddr_set: enable:0, duration: 0, /sys/class/devfreq/scene-frequency/sprd-governor/scene_boost_dfs: max
+03-27 20:23:41.139 24402 27087 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82718, lapfnr:82718
+03-27 20:23:41.139   928   928 D PowerHAL: ###Exit launch scene end###
+03-27 20:23:41.139 24402 27087 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82718, lapfnr:82718
+03-27 20:23:41.140 32238 12526 D mali_gralloc: register: id=38e00011894, handle=0xb400007e6bfc7e30, importpid=-1, gRegisteredHandles=65
+03-27 20:23:41.142   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.142   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.144  1331  4265 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 57da68d Splash Screen com.smartfit.app.test ee762c0 com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 498adea ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org
+03-27 20:23:41.144   905 28962 E Cam3OEMIf: 12560, queueBuffer: mFtEnable 0
+03-27 20:23:41.147 32238 32435 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/1/[-1,-1]/[1,1]
+03-27 20:23:41.150   905 12421 I sprd_hdr_adapter: L 200, sprd_hdr_adpt_detect: detect current hdr type: 2, detect_in_param: 0xdb33cbe0, detect_out_param: 0xdb33cd40
+03-27 20:23:41.150   905 12422 I isp_blk_cmc10: 268, _pm_cmc10_set_param: cmc_result: (2437 14875 95; 16086 1352 16353; 146 15156 2104).
+03-27 20:23:41.150   905 12422 E isp_alg_fw: 3931, ispalg_gtm_process: hist_total is 0, gtm no process !!!
+03-27 20:23:41.150   905 12437 E awb_adpt: 1469, awb_sprd_ctrl_calculation_v3_2: check handle success
+03-27 20:23:41.152   905 12421 E Libae[FAE]: 1926, face_luma_calc: NO FACE
+03-27 20:23:41.152   905 12421 W Libae[ABL]: 585,abl_bv_interpolation:tune param num should bigger than 1
+03-27 20:23:41.153 24402 27087 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39893, lapfnr:39893
+03-27 20:23:41.153   905 12421 I cmr_oem : 10954, camera_get_af_support: af_support 0
+03-27 20:23:41.153 24402 27087 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39893, lapfnr:39893
+03-27 20:23:41.153 24402 27087 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82719, lapfnr:82719
+03-27 20:23:41.153 24402 27087 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82719, lapfnr:82719
+03-27 20:23:41.156   910  1004 I mali_gralloc: allocate: id=38e00011895, hal_format=RGBA8888, mali_format=RGBA8888, afbc=false, usage=CPU_RW|GPU_RW|HWC, size=576x1280(2949120), stride=576, name=screenshot
+03-27 20:23:41.156   942  1387 D mali_gralloc: register: id=38e00011895, handle=0xb400007bafd20670, importpid=-1, gRegisteredHandles=40
+03-27 20:23:41.159   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.159   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.159   942   942 I Layer   : fillInputInfo layer:Wallpaper BBQ wrapper#11766, visible=1 (hasInputInfo:1, isHidden:0, alpha:1.000000, parent:com.android.systemui.wallpapers.ImageWallpaper#11765,parenthidden:0, parentalpha:1.000000, mBuffer:1, mSidebandStream:0,hasSomethingToDraw:1, hasEffect:0, fillsColor:0, drawShadows:0, hasBlur:0)
+03-27 20:23:41.159   942   942 I Layer   : fillInputInfo layer:com.android.systemui.wallpapers.ImageWallpaper#11765, visible=1 (hasInputInfo:1, isHidden:0, alpha:1.000000, parent:40061be com.android.systemui.wallpapers.ImageWallpaper#11764,parenthidden:0, parentalpha:1.000000, mBuffer:0, mSidebandStream:0,hasSomethingToDraw:0, hasEffect:0, fillsColor:0, drawShadows:0, hasBlur:0)
+03-27 20:23:41.160  1331  1878 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 57da68d Splash Screen com.smartfit.app.test ee762c0 com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 498adea ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org
+03-27 20:23:41.161  1331  3480 D mali_gralloc: register: id=38e00011895, handle=0xb400007e6bf91d10, importpid=942, gRegisteredHandles=16
+03-27 20:23:41.169 24402 27087 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39893, lapfnr:39893
+03-27 20:23:41.169 24402 27087 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:2) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39893, lapfnr:39893
+03-27 20:23:41.169 24402 27087 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82720, lapfnr:82720
+03-27 20:23:41.169 24402 27087 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82720, lapfnr:82720
+03-27 20:23:41.170   942   942 D SurfaceFlinger: VRR attempt to change display mode to 1
+03-27 20:23:41.170   942   942 I RefreshRateSelector: Display 4619827259835644672 policy changed
+03-27 20:23:41.170   942   942 I RefreshRateSelector: Previous: {defaultModeId=0, allowGroupSwitching=false, primaryRanges={physical=[60.00 Hz, 120.00 Hz], render=[60.00 Hz, 60.00 Hz]}, appRequestRanges={physical=[60.00 Hz, 120.00 Hz], render=[60.00 Hz, 120.00 Hz]}}
+03-27 20:23:41.170   942   942 I RefreshRateSelector: Current:  DisplayManagerPolicy{defaultModeId=1, allowGroupSwitching=false, primaryRanges={physical=[0.00 Hz, 120.00 Hz], render=[0.00 Hz, 90.00 Hz]}, appRequestRanges={physical=[0.00 Hz, 120.00 Hz], render=[0.00 Hz, 120.00 Hz]}}
+03-27 20:23:41.170   942   942 I RefreshRateSelector: 1 mode changes were performed under the previous policy
+03-27 20:23:41.172   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:41.172   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:41.172   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:41.172   905 12441 W Cam3Channel: 934, getStream: channel has no valied stream(type is 7)
+03-27 20:23:41.174   905 12450 I FDV3    : [getDetectImage, 298]: isTransform.
+03-27 20:23:41.174   905 12441 I Cam3Setting: 6634, translateLocalToFwMetadata: calib_status_value:0
+03-27 20:23:41.174   905 12441 E Cam3Channel: 1588, getMetadata: AE or AF callback error, give default metadata 0xe040a490
+03-27 20:23:41.178   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:41.178   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:41.178   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:41.178 11663 11765 D mali_gralloc: unregister: id=38e00011882, handle=0xb400007e6bf9d350, base=0x0, importpid=11663, count:0
+03-27 20:23:41.179 11663 11765 D mali_gralloc: unregister: id=38e00011881, handle=0xb400007e6bfa1c70, base=0x0, importpid=11663, count:0
+03-27 20:23:41.181 11663 11765 D mali_gralloc: unregister: id=38e00011880, handle=0xb400007e6bfa0dd0, base=0x0, importpid=11663, count:0
+03-27 20:23:41.182 24402 27087 D mali_gralloc: register: id=38e00011895, handle=0xb400007e6c0dc370, importpid=1331, gRegisteredHandles=66
+03-27 20:23:41.182   911  1023 D SPRDHWComposer: HWCDisplay::get_display_attribute <601>: config = 1
+03-27 20:23:41.182   911  1023 D SPRDHWComposer: SprdDrm:: getActiveConfig: 0
+03-27 20:23:41.182   911  1023 D SPRDHWComposer: HWCDisplay::get_display_attribute <601>: config = 0
+03-27 20:23:41.183 24402 28414 D mali_gralloc: register: id=38e00011895, handle=0xb400007e6c0e3ab0, importpid=1331, gRegisteredHandles=67
+03-27 20:23:41.183 24402 28414 D mali_gralloc: unregister: id=38e00011895, handle=0xb400007e6c0e3ab0, base=0x0, importpid=24402, count:1
+03-27 20:23:41.183 24402 27087 D mali_gralloc: register: id=38e00011895, handle=0xb400007e6c066710, importpid=1331, gRegisteredHandles=67
+03-27 20:23:41.183   942   942 I Layer   : fillInputInfo layer:com.smartfit.app/com.smartfit.app.MainActivity#28617, visible=0 (hasInputInfo:1, isHidden:1, alpha:1.000000, parent:fd50001 com.smartfit.app/com.smartfit.app.MainActivity#28613,parenthidden:1, parentalpha:1.000000, mBuffer:1, mSidebandStream:0,hasSomethingToDraw:1, hasEffect:0, fillsColor:0, drawShadows:0, hasBlur:0)
+03-27 20:23:41.183   942   942 I Layer   : fillInputInfo layer:62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity#28616, visible=0 (hasInputInfo:1, isHidden:1, alpha:1.000000, parent:ActivityRecord{50e2bf6 u0 com.smartfit.app/.MainActivity#28609,parenthidden:1, parentalpha:1.000000, mBuffer:0, mSidebandStream:0,hasSomethingToDraw:0, hasEffect:0, fillsColor:0, drawShadows:0, hasBlur:0)
+03-27 20:23:41.183   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.183   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.184 24402 24435 D TaskStackListenerImpl: onTaskSnapshotChanged close hardwarebuffer, snapshot = TaskSnapshot{ mId=1774622321154 mCaptureTime=448975150003851 mTopActivityComponent=com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mSnapshot=android.hardware.HardwareBuffer@5101132 (576x1280) mColorSpace=sRGB IEC61966-2.1 (id=0, model=RGB) mOrientation=1 mRotation=0 mTaskSize=Point(720, 1600) mContentInsets=[0,52][0,84] mLetterboxInsets=[0,0][0,0] mIsLowResolution=false mIsRealSnapshot=true mWindowingMode=1 mAppearance=24 mIsTranslucent=true mHasImeSurface=false
+03-27 20:23:41.184 24402 24435 D mali_gralloc: unregister: id=38e00011895, handle=0xb400007e6c066710, base=0x0, importpid=24402, count:1
+03-27 20:23:41.185  1331  1878 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 57da68d Splash Screen com.smartfit.app.test ee762c0 com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity 498adea ActivityRecordInputSink com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org
+03-27 20:23:41.185   911  1023 D mali_gralloc: unregister: id=38e00011883, handle=0xb4000071bb4b6510, base=0x0, importpid=911, count:0
+03-27 20:23:41.185   911  1023 D SPRDHWComposer: HWC Range:1, HWC_Transfer:4
+03-27 20:23:41.186   911  1023 D mali_gralloc: register: id=38e0000862f, handle=0xb4000071bb4b6510, importpid=942, gRegisteredHandles=33
+03-27 20:23:41.186 24402 24402 D mali_gralloc: unregister: id=38e00011895, handle=0xb400007e6c0dc370, base=0x0, importpid=24402, count:0
+03-27 20:23:41.186   911  1023 D SPRDHWComposer: SprdDrm:: getActiveConfig: 0
+03-27 20:23:41.186   911  1023 D SPRDHWComposer: HWCDisplay::get_display_attribute <601>: config = 1
+03-27 20:23:41.186   911  1023 I SPRDHWComposer: SprdDrm:: setActiveConfig: 1, DisplayType:0
+03-27 20:23:41.186   911  1023 I SPRDHWComposer: Create blob_id: 97
+03-27 20:23:41.187   942  1001 D mali_gralloc: unregister: id=38e00011895, handle=0xb400007bafd20670, base=0x0, importpid=942, count:0
+03-27 20:23:41.187   942  1211 W HWComposer: Ignoring duplicate VSYNC event from HWC for display 4619827259835644672 (t=314323287431000)
+03-27 20:23:41.186  1331  1878 D InputDispatcher: Window went away: animation-background#28631
+03-27 20:23:41.190 32238  2804 D mali_gralloc: register: id=38e00011895, handle=0xb400007e6bfd9650, importpid=1331, gRegisteredHandles=66
+03-27 20:23:41.193   905 28962 E Cam3OEMIf: 12560, queueBuffer: mFtEnable 0
+03-27 20:23:41.196 24402 28414 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:4) PendingRelease=2, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82721, lapfnr:82721
+03-27 20:23:41.196 24402 28414 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:3) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82721, lapfnr:82721
+03-27 20:23:41.198 24402 27087 D FaceUnlock: onTaskStackChangedBackground
+03-27 20:23:41.199   905 12421 I sprd_hdr_adapter: L 200, sprd_hdr_adpt_detect: detect current hdr type: 2, detect_in_param: 0xdb33cbe0, detect_out_param: 0xdb33cd40
+03-27 20:23:41.200   905 12422 I isp_blk_cmc10: 268, _pm_cmc10_set_param: cmc_result: (2437 14875 95; 16086 1352 16353; 146 15156 2104).
+03-27 20:23:41.200   905 12422 E isp_alg_fw: 3931, ispalg_gtm_process: hist_total is 0, gtm no process !!!
+03-27 20:23:41.201   905 12437 E awb_adpt: 1469, awb_sprd_ctrl_calculation_v3_2: check handle success
+03-27 20:23:41.201   905 12421 E Libae[FAE]: 1926, face_luma_calc: NO FACE
+03-27 20:23:41.201   905 12421 W Libae[ABL]: 585,abl_bv_interpolation:tune param num should bigger than 1
+03-27 20:23:41.201   905 12450 I FDV3    : [find, 710]: src:640x480 detect:224 face_num=0 29.91 ms
+03-27 20:23:41.202   905 12421 I cmr_oem : 10954, camera_get_af_support: af_support 0
+03-27 20:23:41.206 24402 27087 D FaceUnlock: PackageName =com.android.launcher3
+03-27 20:23:41.206 11663 11663 D mali_gralloc: unregister: id=38e00011883, handle=0xb400007e6bf9b610, base=0x0, importpid=11663, count:0
+03-27 20:23:41.208   942   995 D mali_gralloc: register: id=38e00011894, handle=0xb400007bafd14070, importpid=32238, gRegisteredHandles=40
+03-27 20:23:41.209 30322 30478 D BLASTBufferQueue: [VRI[VoipActivityV2]#44](f:0,a:2) has set transaction callback, frameNumber = 140
+03-27 20:23:41.211 11663 11663 D LifecycleMonitor: Lifecycle status change: com.smartfit.app.MainActivity@bfe00f2 in: STOPPED
+03-27 20:23:41.212 11663 11663 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.smartfit.app.MainActivity@bfe00f2
+03-27 20:23:41.213  1331  1356 D SurfaceComposerClient: [com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2#28488] frameNumber = 140 will apply
+03-27 20:23:41.221   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.221   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.221   942   942 I Layer   : fillInputInfo layer:com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#28634, visible=1 (hasInputInfo:1, isHidden:0, alpha:1.000000, parent:ee762c0 com.smartfit.app.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#28633,parenthidden:0, parentalpha:1.000000, mBuffer:1, mSidebandStream:0,hasSomethingToDraw:1, hasEffect:0, fillsColor:0, drawShadows:0, hasBlur:0)
+03-27 20:23:41.221   942   942 I Layer   : fillInputInfo layer:com.android.launcher3/com.android.searchlauncher.SearchLauncher#28638, visible=1 (hasInputInfo:1, isHidden:0, alpha:1.000000, parent:19faf04 com.android.launcher3/com.android.searchlauncher.SearchLauncher#15343,parenthidden:0, parentalpha:1.000000, mBuffer:1, mSidebandStream:0,hasSomethingToDraw:1, hasEffect:0, fillsColor:0, drawShadows:0, hasBlur:0)
+03-27 20:23:41.221   942   942 I Layer   : fillInputInfo layer:b6305f1 ActivityRecordInputSink com.android.launcher3/com.android.searchlauncher.SearchLauncher#181, visible=1 (hasInputInfo:1, isHidden:0, alpha:1.000000, parent:ActivityRecord{e5f25d6 u0 com.android.launcher3/com.android.searchlauncher.SearchLauncher#170,parenthidden:0, parentalpha:1.000000, mBuffer:0, mSidebandStream:0,hasSomethingToDraw:0, hasEffect:0, fillsColor:0, drawShadows:0, hasBlur:0)
+03-27 20:23:41.222   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:41.222   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:41.222   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:41.222   905 12441 W Cam3Channel: 934, getStream: channel has no valied stream(type is 7)
+03-27 20:23:41.222  1331  4265 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 57da68d Splash Screen com.smartfit.app.test ee762c0 com.smartfit.app.test/and
+03-27 20:23:41.222   911  1023 D mali_gralloc: unregister: id=38e0000862f, handle=0xb4000071bb4b6510, base=0x0, importpid=911, count:0
+03-27 20:23:41.222   905 12450 I FDV3    : [find, 710]: src:640x480 detect:224 face_num=0 1.12 ms
+03-27 20:23:41.223   911  1023 D SPRDHWComposer: HWC Range:1, HWC_Transfer:4
+03-27 20:23:41.223   911  1023 D mali_gralloc: register: id=38e0001188b, handle=0xb4000071bb4b6510, importpid=942, gRegisteredHandles=33
+03-27 20:23:41.223  1331  1465 D InputDispatcher: dispatchEventToCurrentInputTargets
+03-27 20:23:41.223  1331  1465 D InputDispatcher: channel '19faf04 com.android.launcher3/com.android.searchlauncher.SearchLauncher (server)' ~ prepareDispatchCycle - flags=DISPATCH_AS_IS, globalScaleFactor=1.000000, pointerIds=00000000000000000000000000000000
+03-27 20:23:41.223  1331  1465 D InputDispatcher:         default (ROT_0) (IDENTITY)
+03-27 20:23:41.223  1331  1465 D InputDispatcher: channel '19faf04 com.android.launcher3/com.android.searchlauncher.SearchLauncher (server)' ~ startDispatchCycle
+03-27 20:23:41.224   905 12441 I Cam3Setting: 6634, translateLocalToFwMetadata: calib_status_value:0
+03-27 20:23:41.224   905 12441 E Cam3Channel: 1588, getMetadata: AE or AF callback error, give default metadata 0xe0411ff0
+03-27 20:23:41.226 32238 32238 D InputEventReceiver: channel '19faf04 com.android.launcher3/com.android.searchlauncher.SearchLauncher (client)' ~ Consuming input events, consumeBatches=false, frameTime=-1
+03-27 20:23:41.227 32238 32238 D InputEventReceiver: channel '19faf04 com.android.launcher3/com.android.searchlauncher.SearchLauncher (client)' ~ Received focus event: hasFocus=true.
+03-27 20:23:41.227 32238 32238 D InputEventReceiver: channel '19faf04 com.android.launcher3/com.android.searchlauncher.SearchLauncher (client)' ~ Finished input event.
+03-27 20:23:41.227   942   995 D mali_gralloc: register: id=38e00011893, handle=0xb400007bafd17790, importpid=32238, gRegisteredHandles=41
+03-27 20:23:41.227   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:41.227   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:41.227   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:41.229  1331  1465 D InputDispatcher: channel '19faf04 com.android.launcher3/com.android.searchlauncher.SearchLauncher (server)' ~ finishDispatchCycle - seq=588131, handled=true
+03-27 20:23:41.229  1331  1465 D InputDispatcher: channel '19faf04 com.android.launcher3/com.android.searchlauncher.SearchLauncher (server)' ~ startDispatchCycle
+03-27 20:23:41.233   942   942 D SurfaceFlinger: VRR attempt to change display mode to 0
+03-27 20:23:41.233   942   942 I RefreshRateSelector: Display 4619827259835644672 policy changed
+03-27 20:23:41.233   942   942 I RefreshRateSelector: Previous: {defaultModeId=1, allowGroupSwitching=false, primaryRanges={physical=[0.00 Hz, 120.00 Hz], render=[0.00 Hz, 90.00 Hz]}, appRequestRanges={physical=[0.00 Hz, 120.00 Hz], render=[0.00 Hz, 120.00 Hz]}}
+03-27 20:23:41.233   942   942 I RefreshRateSelector: Current:  DisplayManagerPolicy{defaultModeId=0, allowGroupSwitching=false, primaryRanges={physical=[60.00 Hz, 120.00 Hz], render=[60.00 Hz, 60.00 Hz]}, appRequestRanges={physical=[60.00 Hz, 120.00 Hz], render=[60.00 Hz, 120.00 Hz]}}
+03-27 20:23:41.233   942   942 I RefreshRateSelector: 1 mode changes were performed under the previous policy
+03-27 20:23:41.233 24402 27087 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:4) PendingRelease=2, PendingBuffersToHold=0, SyncedFrameNumbers=0, lacfnr:82722, lapfnr:82722
+03-27 20:23:41.236   905 28962 E Cam3OEMIf: 12560, queueBuffer: mFtEnable 0
+03-27 20:23:41.236  1331  3480 I ImeTracker: com.android.launcher3:a9b6532e: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+03-27 20:23:41.236  1331  3480 I ImeTracker: com.android.launcher3:a9b6532e: onCancelled at PHASE_SERVER_SHOULD_HIDE
+03-27 20:23:41.237   911  1023 D SPRDHWComposer: HWCDisplay::get_display_attribute <601>: config = 0
+03-27 20:23:41.237   911  1023 D SPRDHWComposer: SprdDrm:: getActiveConfig: 1
+03-27 20:23:41.237   911  1023 D SPRDHWComposer: HWCDisplay::get_display_attribute <601>: config = 1
+03-27 20:23:41.237   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.237   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.239   911  1023 D SPRDHWComposer: HWC Range:1, HWC_Transfer:4
+03-27 20:23:41.239   911  1023 D mali_gralloc: register: id=38e0000862f, handle=0xb4000071bb4b4b30, importpid=942, gRegisteredHandles=34
+03-27 20:23:41.239   911  1023 D SPRDHWComposer: HWC Range:1, HWC_Transfer:4
+03-27 20:23:41.239   911  1023 D mali_gralloc: register: id=38e00011893, handle=0xb4000071bb4a70f0, importpid=942, gRegisteredHandles=35
+03-27 20:23:41.240  1331  3670 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 57da68d Splash Screen com.smartfit.app.test ee762c0 com.smartfit.app.test/and
+03-27 20:23:41.240   911  1023 D SPRDHWComposer: SprdDrm:: getActiveConfig: 1
+03-27 20:23:41.240   911  1023 D SPRDHWComposer: HWCDisplay::get_display_attribute <601>: config = 0
+03-27 20:23:41.240   911  1023 I SPRDHWComposer: SprdDrm:: setActiveConfig: 0, DisplayType:0
+03-27 20:23:41.240   911  1023 I SPRDHWComposer: Create blob_id: 94
+03-27 20:23:41.240   942  1211 W HWComposer: Ignoring duplicate VSYNC event from HWC for display 4619827259835644672 (t=314323354076000)
+03-27 20:23:41.240   911  1015 E SPRDHWComposer: Failed to request vblank 22
+03-27 20:23:41.240   911  1015 I SPRDHWComposer: send vblank request failed -1, try again
+03-27 20:23:41.243 24402 27087 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=2, PendingBuffersToHold=0, SyncedFrameNumbers=0, lacfnr:39895, lapfnr:39895
+03-27 20:23:41.245 13146 13146 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2114
+03-27 20:23:41.249 11663 11663 D LifecycleMonitor: Lifecycle status change: com.smartfit.app.MainActivity@bfe00f2 in: DESTROYED
+03-27 20:23:41.249 13146 13146 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+03-27 20:23:41.249 11663 11663 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+03-27 20:23:41.249 24402 27087 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:3) PendingRelease=1, PendingBuffersToHold=0, SyncedFrameNumbers=0, lacfnr:39896, lapfnr:39896
+03-27 20:23:41.249 11663 11663 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@8bc91f7
+03-27 20:23:41.249 13146 13146 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1385 onStartInput(EditorInfo{EditorInfo{packageName=com.android.launcher3, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+03-27 20:23:41.249 24402 27087 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:3) PendingRelease=1, PendingBuffersToHold=0, SyncedFrameNumbers=0, lacfnr:82723, lapfnr:82723
+03-27 20:23:41.250 13146 13146 I AndroidIME: LatinIMEBase.updateInputViewCoverNavigation():314 Update input view padding, extendsTouchBelowSpace=false, bottom inset=84
+03-27 20:23:41.251   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.251   942   942 W Layer   : Hide layer Input Consumer recents_animation_input_consumer#15340 because zOrderRelativeOf = ActivityRecord{3768a16 u0 com.google.android.gm/.ConversationListActivityGmail#27062 is hide.
+03-27 20:23:41.252   905 12422 I isp_blk_cmc10: 268, _pm_cmc10_set_param: cmc_result: (2437 14875 95; 16086 1352 16353; 146 15156 2104).
+03-27 20:23:41.253   905 12421 I sprd_hdr_adapter: L 200, sprd_hdr_adpt_detect: detect current hdr type: 2, detect_in_param: 0xdb33cbe0, detect_out_param: 0xdb33cd40
+03-27 20:23:41.252   905 12437 E awb_adpt: 1469, awb_sprd_ctrl_calculation_v3_2: check handle success
+03-27 20:23:41.253   905 12422 E isp_alg_fw: 3931, ispalg_gtm_process: hist_total is 0, gtm no process !!!
+03-27 20:23:41.253 13146 13146 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+03-27 20:23:41.257   905 12421 E Libae[FAE]: 1926, face_luma_calc: NO FACE
+03-27 20:23:41.257   942  1386 D mali_gralloc: register: id=38e00011892, handle=0xb400007bafd2a870, importpid=32238, gRegisteredHandles=42
+03-27 20:23:41.257  1331  3660 D InputDispatcher: setInputWindows displayId=0 913ef03 ScreenDecorOverlay [Gesture Monitor] pip-resize cf1652a NavigationBar0 5465496 StatusBar pip_input_consumer Embedded{PipMenuView} d8c563e com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2 SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2](BLAST)#28541 Background for SurfaceView[com.whatsapp/com.whatsapp.calling.ui.VoipActivityV2]#28542 25b3f4 ActivityRecordInputSink com.whatsapp/.calling.ui.VoipActivityV2 fd50001 com.smartfit.app/com.smartfit.app.MainActivity 62fd091 ActivityRecordInputSink com.smartfit.app/.MainActivity 3cac54b ActivityRecordInputSink com.whatsapp/.Conversation cfc9a62 ActivityRecordInputSink com.whatsapp/.home.ui.HomeActivity 75522f8 ActivityRecordInputSink com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity recents_animation_input_consumer 8e45331 ActivityRecordInputSink com.google.android.gm/.ui.MailActivityGmail Dim layer#11752 Dim layer#11751 57da68d Splash Screen com.smartfit.app.test ee762c0 com.smartfit.app.test/and
+03-27 20:23:41.258   905 12421 W Libae[ABL]: 585,abl_bv_interpolation:tune param num should bigger than 1
+03-27 20:23:41.258   905 12421 I cmr_oem : 10954, camera_get_af_support: af_support 0
+03-27 20:23:41.259 11663 11714 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.EspressoLink@a242d89]
+03-27 20:23:41.260   942  1386 D mali_gralloc: register: id=38e00011887, handle=0xb400007bafd27270, importpid=24402, gRegisteredHandles=43
+03-27 20:23:41.272   942  1387 D mali_gralloc: register: id=38e00011886, handle=0xb400007bafd2fdf0, importpid=24402, gRegisteredHandles=44
+03-27 20:23:41.273   905 12450 I FDV3    : [find, 710]: src:640x480 detect:224 face_num=0 1.10 ms
+03-27 20:23:41.273   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:41.273   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:41.273   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:41.273   905 12441 W Cam3Channel: 934, getStream: channel has no valied stream(type is 7)
+03-27 20:23:41.275   905 12441 I Cam3Setting: 6634, translateLocalToFwMetadata: calib_status_value:0
+03-27 20:23:41.275   905 12441 E Cam3Channel: 1588, getMetadata: AE or AF callback error, give default metadata 0xe040cdb0
+03-27 20:23:41.277   905 12384 I cmr_sensor: 959, cmr_sns_thread_proc: evt 524548
+03-27 20:23:41.277   905 12384 I cmr_sensor: 1379, cmr_sns_ioctl: cmd = 45, arg = 0xdbe58530.
+03-27 20:23:41.277   905 12384 I gc08a3_sharkl2: 403, gc08a3_drv_access_val: sensor gc08a3: param_ptr->type=22
+03-27 20:23:41.280   905 28962 E Cam3OEMIf: 12560, queueBuffer: mFtEnable 0
+03-27 20:23:41.280 24402 28493 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39898, lapfnr:39898
+03-27 20:23:41.280 24402 28493 D BLASTBufferQueue: [VRI[NavigationBar0]#1](f:0,a:4) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:39898, lapfnr:39898
+03-27 20:23:41.280 24402 28493 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:4) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82725, lapfnr:82725
+03-27 20:23:41.280 24402 28493 D BLASTBufferQueue: [VRI[StatusBar]#3](f:0,a:4) PendingRelease=1, PendingBuffersToHold=1, SyncedFrameNumbers=0, lacfnr:82725, lapfnr:82725
+03-27 20:23:41.284  1331  3660 W InputManager-JNI: Input channel object 'fd50001 com.smartfit.app/com.smartfit.app.MainActivity (client)' was disposed without first being removed with the input manager!
+03-27 20:23:41.288 11663 11663 D InputEventReceiver: channel 'fd50001 com.smartfit.app/com.smartfit.app.MainActivity (client)' ~ Disposing input event receiver.
+03-27 20:23:41.291 11663 11714 I TestRunner: finished: splashScreen_displaysAppName(com.smartfit.app.NavigationUITest)

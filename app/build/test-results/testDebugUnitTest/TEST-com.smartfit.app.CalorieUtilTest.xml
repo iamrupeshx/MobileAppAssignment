@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.smartfit.app.CalorieUtilTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-03-23T05:27:22.967Z" hostname="DESKTOP-IQB3GOD" time="0.011">
+  <properties/>
+  <testcase name="estimate HIIT burns more than walking for same duration" classname="com.smartfit.app.CalorieUtilTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,75 @@
+INFO: Constructing runner from config.
+INFO: Configuring Android Instrumentation driver: android_instrumentation_runtime {
+  instrumentation_info {
+    app_package: "com.smartfit.app"
+    test_package: "com.smartfit.app.test"
+    test_runner_class: "androidx.test.runner.AndroidJUnitRunner"
+  }
+  instrumentation_args {
+    args_map {
+      key: "additionalTestOutputDir"
+      value: "/sdcard/Android/media/com.smartfit.app/additional_test_output"
+    }
+    args_map {
+      key: "class"
+      value: "com.smartfit.app.NavigationUITest"
+    }
+  }
+}
+am_instrument_timeout: 31536000
+
+INFO: Configuring AndroidTestApkInstallerPlugin: apks_to_install {
+  apk_paths: "D:\\kotlin app\\SmartFit\\app\\build\\intermediates\\apk\\debug\\app-debug.apk"
+  install_options {
+  }
+  uninstall_after_test: true
+}
+apks_to_install {
+  apk_paths: "D:\\kotlin app\\SmartFit\\app\\build\\intermediates\\apk\\androidTest\\debug\\app-debug-androidTest.apk"
+  install_options {
+  }
+  uninstall_after_test: true
+}
+
+INFO: No installables found in test fixture. Nothing to install.
+INFO: Installing [D:\kotlin app\SmartFit\app\build\intermediates\apk\debug\app-debug.apk] on device E286747720C81100318.
+INFO: Installing [D:\kotlin app\SmartFit\app\build\intermediates\apk\androidTest\debug\app-debug-androidTest.apk] on device E286747720C81100318.
+INFO: Start logcat streaming.
+INFO: Running Android Instrumentation driver.
+INFO: Copying files from device to host: /sdcard/Android/media/com.smartfit.app/additional_test_output to D:\kotlin app\SmartFit\app\build\outputs\connected_android_test_additional_output\debugAndroidTest\connected\Nokia G11 Plus - 14
+INFO: Stop logcat streaming.
+INFO: Uninstalling com.smartfit.app for device E286747720C81100318.
+INFO: Uninstalling com.smartfit.app.test for device E286747720C81100318.
+INFO: Execute com.smartfit.app.NavigationUITest.loginScreen_hasTaglineText: PASSED
+INFO: Execute com.smartfit.app.NavigationUITest.loginScreen_hasEmailAndPasswordFields: PASSED
+SEVERE: Execute com.smartfit.app.NavigationUITest.clickRegisterHere_navigatesToRegisterScreen: FAILED
+java.lang.IllegalStateException: java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release$default(TestOwner.kt:81)
+at androidx.compose.ui.test.SemanticsNodeInteractionCollection.fetchSemanticsNodes(SemanticsNodeInteraction.kt:256)
+at androidx.compose.ui.test.SemanticsNodeInteractionCollection.fetchSemanticsNodes$default(SemanticsNodeInteraction.kt:249)
+at com.smartfit.app.NavigationUITest.clickRegisterHere_navigatesToRegisterScreen$lambda$5(NavigationUITest.kt:67)
+at com.smartfit.app.NavigationUITest.$r8$lambda$kdyCgXYRDveSzF2XN35ut_K8RQM(Unknown Source:0)
+at com.smartfit.app.NavigationUITest$$ExternalSyntheticLambda11.invoke(D8$$SyntheticClass:0)
+at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$AndroidComposeUiTestImpl.waitUntil(ComposeUiTest.android.kt:434)
+at androidx.compose.ui.test.junit4.AndroidComposeTestRule.waitUntil(AndroidComposeTestRule.android.kt:306)
+at com.smartfit.app.NavigationUITest.clickRegisterHere_navigatesToRegisterScreen(NavigationUITest.kt:66)
+
+java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release$default(TestOwner.kt:81)
+at androidx.compose.ui.test.SemanticsNodeInteractionCollection.fetchSemanticsNodes(SemanticsNodeInteraction.kt:256)
+at androidx.compose.ui.test.SemanticsNodeInteractionCollection.fetchSemanticsNodes$default(SemanticsNodeInteraction.kt:249)
+at com.smartfit.app.NavigationUITest.clickRegisterHere_navigatesToRegisterScreen$lambda$5(NavigationUITest.kt:67)
+at com.smartfit.app.NavigationUITest.$r8$lambda$kdyCgXYRDveSzF2XN35ut_K8RQM(Unknown Source:0)
+at com.smartfit.app.NavigationUITest$$ExternalSyntheticLambda11.invoke(D8$$SyntheticClass:0)
+at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$AndroidComposeUiTestImpl.waitUntil(ComposeUiTest.android.kt:434)
+at androidx.compose.ui.test.junit4.AndroidComposeTestRule.waitUntil(AndroidComposeTestRule.android.kt:306)
+at com.smartfit.app.NavigationUITest.clickRegisterHere_navigatesToRegisterScreen(NavigationUITest.kt:66)
+INFO: Execute com.smartfit.app.NavigationUITest.loginScreen_invalidEmail_showsFormatError: PASSED
+INFO: Execute com.smartfit.app.NavigationUITest.loginScreen_hasSignInButton: PASSED
+INFO: Execute com.smartfit.app.NavigationUITest.splashScreen_displaysAppName: PASSED
+INFO: Execute com.smartfit.app.NavigationUITest.loginScreen_displaysWelcomeText: PASSED
+INFO: Execute com.smartfit.app.NavigationUITest.registerScreen_hasAllRequiredFields: PASSED
+INFO: Execute com.smartfit.app.NavigationUITest.loginScreen_emptyEmail_showsError: PASSED
+INFO: Execute com.smartfit.app.NavigationUITest.registerScreen_hasCreateAccountButton: PASSED

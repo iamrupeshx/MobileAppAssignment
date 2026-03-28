@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.smartfit.app.NavigationUITest" tests="10" failures="1" errors="0" skipped="0" time="44.59" timestamp="2026-03-27T14:39:00" hostname="localhost">
+  <properties>
+    <property name="device" value="Nokia G11 Plus - 14" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="loginScreen_hasTaglineText" classname="com.smartfit.app.NavigationUITest" time="8.722" />
+  <testcase name="loginScreen_hasEmailAndPasswordFields" classname="com.smartfit.app.NavigationUITest" time="4.27" />
+  <testcase name="clickRegisterHere_navigatesToRegisterScreen" classname="com.smartfit.app.NavigationUITest" time="5.285">
+    <failure>java.lang.IllegalStateException: No compose hierarchies found in the app. Possible reasons include: (1) the Activity that calls setContent did not launch; (2) setContent was not called; (3) setContent was called before the ComposeTestRule ran. If setContent is called by the Activity, make sure the Activity is launched after the ComposeTestRule runs
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release(TestOwner.kt:87)
+at androidx.compose.ui.test.TestContext.getAllSemanticsNodes$ui_test_release$default(TestOwner.kt:81)
+at androidx.compose.ui.test.SemanticsNodeInteractionCollection.fetchSemanticsNodes(SemanticsNodeInteraction.kt:256)
+at androidx.compose.ui.test.SemanticsNodeInteractionCollection.fetchSemanticsNodes$default(SemanticsNodeInteraction.kt:249)
+at com.smartfit.app.NavigationUITest.clickRegisterHere_navigatesToRegisterScreen$lambda$5(NavigationUITest.kt:67)
+at com.smartfit.app.NavigationUITest.$r8$lambda$kdyCgXYRDveSzF2XN35ut_K8RQM(Unknown Source:0)
+at com.smartfit.app.NavigationUITest$$ExternalSyntheticLambda11.invoke(D8$$SyntheticClass:0)
+at androidx.compose.ui.test.AndroidComposeUiTestEnvironment$AndroidComposeUiTestImpl.waitUntil(ComposeUiTest.android.kt:434)
+at androidx.compose.ui.test.junit4.AndroidComposeTestRule.waitUntil(AndroidComposeTestRule.android.kt:306)
+at com.smartfit.app.NavigationUITest.clickRegisterHere_navigatesToRegisterScreen(NavigationUITest.kt:66)
+</failure>
+  </testcase>
+  <testcase name="loginScreen_invalidEmail_showsFormatError" classname="com.smartfit.app.NavigationUITest" time="6.217" />
+  <testcase name="loginScreen_hasSignInButton" classname="com.smartfit.app.NavigationUITest" time="3.179" />
+  <testcase name="splashScreen_displaysAppName" classname="com.smartfit.app.NavigationUITest" time="0.923" />
+  <testcase name="loginScreen_displaysWelcomeText" classname="com.smartfit.app.NavigationUITest" time="3.073" />
+  <testcase name="registerScreen_hasAllRequiredFields" classname="com.smartfit.app.NavigationUITest" time="3.966" />
+  <testcase name="loginScreen_emptyEmail_showsError" classname="com.smartfit.app.NavigationUITest" time="3.207" />
+  <testcase name="registerScreen_hasCreateAccountButton" classname="com.smartfit.app.NavigationUITest" time="3.744" />
+</testsuite>
